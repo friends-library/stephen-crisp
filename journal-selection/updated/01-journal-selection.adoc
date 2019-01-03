@@ -3,7 +3,7 @@ ____
 For God gives wisdom and knowledge and joy to a man who is good in His sight.
 ____
 
-== The Christian Experience AND GOSPEL LABORS OF That Ancient Servant of Christ Stephen Crisp (1628 – 1692)
+== The Life of Stephen Crisp
 
 Oh, all you saints, and all you inhabitants of the earth,
 let the name of Jehovah be famous among you, for there is no God like unto Him!
@@ -428,11 +428,10 @@ and heard him declare the everlasting gospel in the name and authority of the Lo
 which I could not withstand with all my wisdom and knowledge.
 Instead, I was constrained to acknowledge and confess to the truth.
 
-*   *   *
+[.asterism]
+'''
 
-Editor's Note
-
-+++[+++James Parnell is said to have been "`young, small of stature,
++++[+++Editor's Note: James Parnell is said to have been "`young, small of stature,
 and poor in appearance,`" but thousands were made to
 confess that "`he spoke as one having authority,
 and not as the scribes.`"
@@ -448,9 +447,11 @@ months imprisonment at the young age of nineteen.
 The following letter of James Parnell was addressed to Stephen Crisp,
 probably a short time after their first encounter and Crisp's convincement.
 
+[.embedded-content-document.letter]
+--
 
+[.salutation]
 Friend,
-
 
 Stand in,
 and keep your mind to that which lets you see your enemies to be of your own house.
@@ -497,9 +498,10 @@ that He may be your Head,
 and you will find the way of peace and dwell in unity with the faithful.
 And though you are hated by the world, yet in God you will have peace and well-being.
 
+[.signed-section-signature]
+James Parnell
 
---James Parnell
-
+--
 
 After the death of James Parnell,
 Stephen Crisp was called upon to write a short testimony to
@@ -509,6 +511,8 @@ Parnell as the instrument of God by which his long wandering
 and weary soul was turned to the Truth.
 After speaking of the great work of the Lord in those days, Crisp goes on to say:
 
+[.embedded-content-document.letter]
+--
 
 Babes have been His messengers, and children have been His ministers,
 who in their innocence have received the revelation of His Holy Spirit,
@@ -525,12 +529,13 @@ Much might be spoken of this man,
 and a large testimony lives in my heart to his blessed life,
 and to the power and wisdom that abounded in him.]
 
+--
 
-
+[.centered]
 Returning to Stephen Crisp's Journal
 
-
-*   *   *
+[.asterism]
+'''
 
 Seeing that my wisdom and reason were overcome by the truth,
 I could no longer contend against it.
@@ -905,11 +910,10 @@ So in the year 1669, I went over and visited the meetings, obtained various new 
 delighting to see to the good order and government of
 the affairs relating to Truth and Friends.
 
+[.asterism]
+'''
 
-*   *   *
-
-
-Stephen Crisp continued a faithful and diligent minister in
+__Stephen Crisp continued a faithful and diligent minister in
 the Society of Friends until his death in 1692,
 at 64 years of age.
 During his 35 years of ministry, he was known by all to be a tireless laborer,
@@ -926,4 +930,4 @@ On his deathbed he was heard to say,
 "`I desire the Lord to deliver me out of this troublesome and painful body.
 If He will but say the word, it is done.
 Yet there is no cloud in my way.
-I have a full assurance of my peace with God in Jesus Christ.`"
+I have a full assurance of my peace with God in Jesus Christ.`"__

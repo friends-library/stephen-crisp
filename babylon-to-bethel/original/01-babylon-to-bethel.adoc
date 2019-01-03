@@ -1,8 +1,7 @@
 == A Short History of a Long Travel from Babylon to Bethel
 
-An Allegory
-
-by Stephen Crisp
+[.chapter-subtitle--blurb]
+An Allegory by Stephen Crisp
 
 In the days of my youth, when I lived at home in my father's house,
 I heard many people talk of the house of God;
@@ -263,9 +262,9 @@ When I awaked and came to myself, it was still very dark; and, looking about,
 I saw a small light near me; and it came into my mind to go to it, and see what it was;
 and as I went, the light went before me.
 
-Then it came into my mind, that I had heard of false lights, as "`ignis fatuus,`"^
-footnote:[Also called a friar's lantern, or will-o'-the-wisp,
-the ignis fatuus is a flickering phosphorescent light seen at night,
+Then it came into my mind, that I had heard of false lights, as "`__ignis fatuus__,`"^
+footnote:[Also called a __friar's lantern__, or __will-o'-the-wisp__,
+the __ignis fatuus__ is a flickering phosphorescent light seen at night,
 chiefly over marshy ground,
 and believed to be due to spontaneous combustion of gas from decomposed organic matter.
 The name came to be used to refer to any deluding or misleading guide.]
@@ -454,7 +453,7 @@ that I was ravished in an admirable manner.
 I also met with some people that welcomed me to the
 house of God with such kindness as refreshed my heart:
 and as I came to be acquainted with them, I marked their conversation,
-and their discourses were exceedingly comfortable to me; no quarrelling, no contention,
+and their discourses were exceedingly comfortable to me; no quarreling, no contention,
 no high nor hot words, but all passed with meekness and reverence,
 and due respect one for another.
 The young men waited for the words of the ancients,
@@ -549,5 +548,4 @@ carpenters and masons might at one time or another pull it down again.
 So I went not, but sought a city whose builder is God; and now I have found it;
 Hallelujah in the Highest; glory, honour, and renown to his worthy Name and power,
 throughout all ages and generations.
-
 Amen.

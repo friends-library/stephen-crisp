@@ -1,5 +1,6 @@
 == A Plain Pathway Opened To The Simple Hearted
 
+[.chapter-subtitle--blurb]
 For the answering of all doubts and objections which arise
 against Christ's light and truth in the inward parts;
 by which many are kept from obedience, and so from peace to their panting souls.
@@ -621,6 +622,11 @@ whether they hear or forbear.
 And though in bonds for the gospel's sake, yet I am the Lord's free man,
 waiting in patience and full assurance for Zion's full redemption.
 
-Known by the name, Stephen Crisp.
+[.signed-section-closing]
+Known by the name,
 
+[.signed-section-signature]
+Stephen Crisp.
+
+[.signed-section-context-close]
 Ipswich County Jail, this Third Month, 1668.
