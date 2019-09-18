@@ -1,4 +1,7 @@
-== The Testimony of the men`'s meeting at Colchester, concerning Stephen Crisp.
+== Testimonies of Stephen Crisp
+
+[.centered]
+=== The Testimony of the men`'s meeting at Colchester, concerning Stephen Crisp.
 
 It is sufficient for the righteous, that they know the Lord, and are known of him,
 and that their life is hid with God in Christ: such care not for popularity.
@@ -135,15 +138,15 @@ glory and immortality with our God,
 which is the portion of all those that faithfully serve and honour the Lord in their day,
 as he did.
 
+[.signed-section-closing]
 Signed in behalf of our men`'s meeting at Colchester, the 17th of the eighth month, 1692,
 
+[.signed-section-signature]
 Arthur Gotten, Thomas Wear, Thomas Bales, Daniel Vande Wall, Solomon Fromantell,
 Anthony Whaypool, John Furly, Henry Pomfret, Samuel Cooper, John Perry, Richard Waller.
 
-[.asterism]
-'''
-
-From the second-day morning meeting, the 4th of the Fourth month, 1694.
+[.centered]
+=== From the Second-day Morning Meeting, the 4th of the Fourth month, 1694.
 
 Being not willing to multiply many particular testimonies concerning
 our dear deceased friend and brother Stephen Crisp,
@@ -157,16 +160,14 @@ in that which teacheth how to rightly prize, esteem and make use of the Lord`'s 
 and the labours, services and writings of the ministers and servants of Christ,
 in whose love we remain servants of Christ, and well-wishers to all men,
 
+[.signed-section-signature]
 George Whitehead, John Whitehead, Francis Camfield, William Bingley, John Vaughton,
 Samuel Waldenfield, John Eldridge, Fran.
 Stamper.
 Ambrose Rigge.
 
-[.asterism]
-'''
-
-The Testimony of the yearly meeting of Friends, held at Amsterdam, the Fifth month, anno,
-1693, concerning our dear friend, and servant of Christ Jesus, Stephen Crisp.
+[.centered]
+=== The Testimony of the yearly meeting of Friends, held at Amsterdam, the Fifth month, anno, 1693, concerning our dear friend, and servant of Christ Jesus, Stephen Crisp.
 
 Being acquainted with the intentions of our dear friends and brethren in England,
 to commit to posterity, in a collection, the writings of that eminent servant of God,
@@ -267,4 +268,8 @@ being still partakers of the blessed effects thereof;
 and hope the Lord of heaven and earth, will be pleased to raise up many others,
 to stand up in the places of such faithful labourers in his vineyard.
 
-Signed in behalf of, and by order of the Quarterly Meeting abovesaid, by John Claus.
+[.signed-section-closing]
+Signed in behalf of, and by order of the Quarterly Meeting abovesaid, by
+
+[.signed-section-signature]
+John Claus.

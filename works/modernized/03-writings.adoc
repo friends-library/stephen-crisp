@@ -1,25 +1,16 @@
-== Chapter ii. The Writings and Epistles of Stephen Crisp
+== Chapter II. The Writings and Epistles of Stephen Crisp
 
-=== A Word of Reproof To The Teachers of the World,
+[.centered]
+=== A Word of Reproof To The Teachers of the World.
 
-Which may be of use for the trial of their ways and standing,
-that all who are willing to be undeceived,
-may come to an understanding to know what sort of men in this nation they are,
-who serve not the Lord Jesus Christ, but their own bellies,
-who in words profess God and the Scriptures, but in life deny both.
-With an invitation and warning to them and all people, to turn from iniquity,
-and serve the living God, whose service is not known, but in the light;
-neither is any service or worship accepted by him,
-but as it is acted in obedience to his measure +++[+++of grace]
-which is light, and has lighted every one that comes into the world.
+[.blurb]
+=== Which may be of use for the trial of their ways and standing, that all who are willing to be undeceived, may come to an understanding to know what sort of men in this nation they are, who serve not the Lord Jesus Christ, but their own bellies, who in words profess God and the Scriptures, but in life deny both. With an invitation and warning to them and all people, to turn from iniquity, and serve the living God, whose service is not known, but in the light; neither is any service or worship accepted by him, but as it is acted in obedience to his measure +++[+++of grace] which is light, and has lighted every one that comes into the world.
 
-Howl, you Shepherds, and cry; and wallow yourselves in the ashes,
-you principal of the Flock;
-for the days of your slaughter and of your dispersion are accomplished;
-and you shall fall like a pleasant vessel.--Jer. 25:34.
+[.blurb]
+==== Howl, you Shepherds, and cry; and wallow yourselves in the ashes, you principal of the Flock; for the days of your slaughter and of your dispersion are accomplished; and you shall fall like a pleasant vessel.--Jer. 25:34.
 
-Written by a friend to all people, and a lover of the light, and the ways thereof,
-whose outward name is Stephen Crisp.
+[.blurb]
+==== Written by a friend to all people, and a lover of the light, and the ways thereof, whose outward name is Stephen Crisp.
 
 This is written to go abroad among the parish teachers and their flocks,
 and is serviceable for them to consider of;
@@ -45,7 +36,8 @@ Therefore all be warned for time to come,
 and in the fear of the Lord will you come to know the beginning of that
 wisdom which comprehends all those teachers which feed the itching ears.
 
---Stephen Crisp
+[.signed-section-signature]
+Stephen Crisp
 
 This word is unto you, oh, you priests!
 In vain are all your coverings; for the light of our God is risen,
@@ -119,7 +111,6 @@ but are ministers of Anti- Christ, and so proved liars and condemned,
 and witnessed against, both in the light and by the Scriptures.
 
 Secondly, You say you preach the gospel.
-
 No, that is not the gospel of Christ you preach, but another,
 which he that brings is accursed:
 for the gospel of Christ is the power of God unto salvation to them that believe.
@@ -154,7 +145,6 @@ and the scripture declares against you, and your condemnation is just,
 and shall abide forever.
 
 Thirdly, you say you preach the Truth.
-
 No, that is not the Truth you preach, for it sets none free;
 for many have abode in your doctrine and worship a long time, some twenty, some forty,
 and some sixty years, and yet are not set free.
@@ -178,7 +168,6 @@ and let the light in your own consciences judge, whether you do not deny Scriptu
 yes or no.
 
 Fourthly, you say, he that preaches the gospel, ought to live of the gospel.
-
 I answer, he unto whom the gospel of Christ is committed to preach,
 none can hinder him of living of it; for it is his life,
 and he needs not an outward law to hold up his livelihood.
@@ -202,7 +191,6 @@ in envy and covetousness, in strife and contention, this is not to live of the g
 but this is the fruit of the corrupt tree which is for the fire.
 
 Fifthly, you say, the labourer is worthy of his hire.
-
 Yes, but he must have it of him that sets him to work, and has profit by his work.
 Now he that works for one man, and would have hire of another, who set him not on work,
 this is unreasonable; and so is it for a man to exact wages for his work,
@@ -232,41 +220,17 @@ This is given forth from the spirit of Truth,
 for the manifesting and rebuking of the spirit of error,
 and written in obedience to the commandment of the Lord in the year accounted, 1657.
 
---Stephen Crisp
+[.signed-section-signature]
+Stephen Crisp
 
+[.centered]
 === A Description of the Church of Scotland
 
-With a word of reproof to the priests and teachers and officers therein,
-for their many corrupt doctrines and practices; also a warning,
-and general invitation to all people, that live under their tyrannical government,
-to come to the Truth, which will free them from the bondage they have long lain under;
-and to the Light which will show them the way to
-escape being longer partakers of their sins;
-and so they shall escape being partakers of the plagues which shall shortly be poured
-forth without mixture upon them which continue in their ungodly deeds and works of darkness,
-in rebellion against the light that makes them manifest.
-Herein is their church made manifest: 1. In its foundation.
-2+++.+++ Its members wherewith it is builded.
-3+++.+++ In its officers.
-4+++.+++ In its doctrines, of God, of God`'s Word, of Faith, and of Election.
-5+++.+++ In its ordinances of baptism and the Lord`'s supper,
-(as they call them.) 6. In its discipline.
-With an exhortation to all people to come out from among them,
-to that which makes them manifest,
-which is the true light that enlightens every man that comes into the world.
+[.blurb]
+=== With a word of reproof to the priests and teachers and officers therein, for their many corrupt doctrines and practices; also a warning, and general invitation to all people, that live under their tyrannical government, to come to the Truth, which will free them from the bondage they have long lain under; and to the Light which will show them the way to escape being longer partakers of their sins; and so they shall escape being partakers of the plagues which shall shortly be poured forth without mixture upon them which continue in their ungodly deeds and works of darkness, in rebellion against the light that makes them manifest. Herein is their church made manifest: 1. In its foundation. 2+++.+++ Its members wherewith it is builded. 3+++.+++ In its officers. 4+++.+++ In its doctrines, of God, of God`'s Word, of Faith, and of Election. 5+++.+++ In its ordinances of baptism and the Lord`'s supper, (as they call them.) 6. In its discipline. With an exhortation to all people to come out from among them, to that which makes them manifest, which is the true light that enlightens every man that comes into the world.
 
-[.asterism]
-'''
-
-Written in love to the simple-hearted in that nation, and in witness of the Truth,
-and in testimony against the false teachers, and their false doctrines,
-ways and worships;
-by one who desires that people might be brought to the truth in their inward parts,
-to worship God in that, by the leading of his own Spirit, that so they might be accepted;
-who am known among men by the name of Stephen Crisp.
-
-[.asterism]
-'''
+[.blurb]
+==== Written in love to the simple-hearted in that nation, and in witness of the Truth, and in testimony against the false teachers, and their false doctrines, ways and worships; by one who desires that people might be brought to the truth in their inward parts, to worship God in that, by the leading of his own Spirit, that so they might be accepted; who am known among men by the name of Stephen Crisp.
 
 To the several presbyters in Scotland and to every member of them,
 and to the Scottish church in general is this directed,
@@ -459,6 +423,9 @@ These qualifications do belong to such men as you profess yourselves to be,
 which I shall set down, and then let all sober people judge,
 whether you he reprobate unto them, yes or no.
 
+[.small-break]
+'''
+
 I+++.+++ They ought to be blameless, and whether you are so or not, be your own judges,
 who say, none can live without sin, and so consequently not without blame,
 for all sin is blameable; so in this particular you have excluded yourselves.
@@ -513,6 +480,9 @@ a body fit for destruction together,
 which the Lord is appearing against in his mighty power, to cut off head and tail,
 root and branch together.
 
+[.small-break]
+'''
+
 2+++.+++ The doctrines of your church also are reprovable and corrupt in many things,
 contrary to the scriptures.
 And first in your doctrines of God, who you say is to be known and believed on,
@@ -557,7 +527,10 @@ and of his power by which you were created,
 and of his spirit by which he quickens into newness of life, all those who fear him,
 and wait for his salvation, which now by the light is making manifest.
 
-Your doctrine concerning the Word of God, is altogether reprovable,
+[.small-break]
+'''
+
+3+++.+++ Your doctrine concerning the Word of God, is altogether reprovable,
 who teach people to believe,
 that that is the Word of God that can be bought and sold for money,
 and the knowledge thereof attained by human learning, namely the scriptures,
@@ -611,6 +584,9 @@ that the Word in the heart you may know, which lives and abides forever,
 when that by it is destroyed, which cannot abide forever, which is your sin,
 which hitherto has separated you from the knowledge of God and of his powerful Word.
 
+[.small-break]
+'''
+
 4+++.+++ Your doctrine of faith is reprovable,
 and you in it found contrary to the true ministers of Christ.
 You preach that faith cannot be without sin;
@@ -660,6 +636,9 @@ and according unto your faith who believe you can never be made free from your s
 so also will it happen unto you.
 So long as you abide in that belief, you shall abide servants of sin,
 and so free from righteousness.
+
+[.small-break]
+'''
 
 5+++.+++ Concerning Election.
 Herein have you erred exceedingly from the Truth,
@@ -775,6 +754,9 @@ and what else is preached among you, will be seen with the light, by them that l
 to which I commend them in whom is sincerity of heart,
 and shall proceed a little further to your ordinances.
 
+[.small-break]
+'''
+
 1+++.+++ And first concerning that rotten tradition which you call an ordinance or baptism,
 namely,
 your casting a few drops of water upon the face of an infant about eight days old.
@@ -843,6 +825,9 @@ which brings into the everlasting covenant which God is making with his holy see
 which he is now gathering from under all the shadows,
 and also from among all the inventions of men, to serve him in meekness and fear,
 in that worship which is inward in the spirit and in the truth.
+
+[.small-break]
+'''
 
 2+++.+++ The next thing is your imitable custom of eating and drinking bread and wine,
 which you call a sacrament of the Lord`'s supper.
@@ -935,7 +920,10 @@ and come to the light which lets people see over them all, to the one baptism it
 and to the supper, (and table of the Lord,) itself, and to the church itself,
 which is in God the Father of our Lord Jesus Christ, as you may read. 1 Thess. 1:2.
 
-And lastly, the discipline of your church,
+[.small-break]
+'''
+
+3+++.+++ And lastly, the discipline of your church,
 does appear contrary to the discipline of the true church;
 and in this particular you have so far proceeded already, within these few years,
 that you have thereby much manifested yourselves even to many,
@@ -1052,10 +1040,13 @@ when the measure of your iniquities shall be filled up.
 While you have time, prize it, and while you have light, love it, and believe in it,
 that you may be made children of it,
 
+[.signed-section-signature]
 Stephen Crisp
 
+[.centered]
 === A letter from Stephen Crisp, to the Mayor of Colchester.
 
+[.salutation]
 Friend,
 
 It is in my heart in love, to lay these few things before you;
@@ -1200,12 +1191,16 @@ I suffer bonds, and have done these forty-eight weeks, in the moat-hall in Colch
 where I remain a lover of your soul, a friend to just power,
 and obedient to all good and wholesome laws, but a witness against unrighteousness.
 
+[.signed-section-signature]
 Stephen Crisp
 
+[.signed-section-context-close]
 The 1st of the Eighth month, 1664.
 
+[.centered]
 === Another letter from Stephen Crisp, to the Mayor of Colchester.
 
+[.salutation]
 Friend,
 
 You are now become the ruler of a great and numerous people,
@@ -1267,24 +1262,22 @@ and do heartily desire it may be as tenderly received as it is written;
 then will the effect be good to you, which is the desire of me who am your friend,
 though your prisoner.
 
+[.signed-section-signature]
 Stephen Crisp
 
+[.centered]
 === An Epistle To Friends, Concerning the Present and Succeeding Times.
 
-Being a faithful exhortation and warning to all Friends who profess the Truth,
-to beware of the manifold wiles of the enemy,
-and to stand armed in the light of the Lord God of heaven and earth,
-against his assaults,
-that so they may be ready to answer the call and requirings of the Lord.
-Also, something signified of the misery of the succeeding times,
-that all may be prepared, and that the evil day may not overtake any unaware,
-but such as turn away their ear from counsel.
+[.blurb]
+==== Being a faithful exhortation and warning to all Friends who profess the Truth, to beware of the manifold wiles of the enemy, and to stand armed in the light of the Lord God of heaven and earth, against his assaults, that so they may be ready to answer the call and requirings of the Lord. Also, something signified of the misery of the succeeding times, that all may be prepared, and that the evil day may not overtake any unaware, but such as turn away their ear from counsel.
 
-By one who is a traveller in the way of peace, and has good will towards all men,
-and more especially to the household of faith, Stephen Crisp.
+[.blurb]
+==== By one who is a traveller in the way of peace, and has good will towards all men, and more especially to the household of faith, Stephen Crisp.
 
-"`Let him that has an ear, hear what the Spirit says to the churches.`"
+[.blurb]
+==== "`Let him that has an ear, hear what the Spirit says to the churches.`"
 
+[.salutation]
 Dear Friends,
 
 You whom the Lord has reached unto in this the day of his love,
@@ -1356,7 +1349,7 @@ and all of a contrary nature discovered and judged,
 as they were brought to it to be tried.
 This light did our souls rejoice in, as they had good cause,
 though it took away our former rejoicings; our pleasures in vanities and iniquity died,
-our glory in this world withered, our friendship with the sons of rnen decayed,
+our glory in this world withered, our friendship with the sons of men decayed,
 and we stood in the light and saw all these things, and were not sorry at it,
 but waited daily to see these things more and more brought to pass;
 neither was there a permitting our thoughts to go out,
@@ -1388,10 +1381,13 @@ and leaves will not defend it from the curse and blasting.
 The three especial fruits that did spring forth from this blessed root,
 and were and are to continue and increase in us and among us, to the end, are these.
 
+[.numbered]
 1+++.+++ Purity, manifested in a godly conduct.
 
+[.numbered]
 2+++.+++ Unity, manifested in dear and tender love one towards another.
 
+[.numbered]
 3+++.+++ Faithfulness,
 manifested in bearing a constant and faithful testimony
 to the things we had received and believed,
@@ -1407,6 +1403,9 @@ But, oh! dear Friends, let all be watchful and diligent,
 to wait in the sense and true feeling of that Seed that never fell nor was beguiled;
 and you will, (even the least of you,) see and comprehend his workings and transformings,
 and be delivered from them.
+
+[.small-break]
+'''
 
 1+++.+++ Purity and holiness was a fruit in you, which does yet flourish in many,
 (blessed be the Lord,) who are as watchful and careful to approve
@@ -1472,6 +1471,9 @@ as do keep the pure and undefiled conscience,
 which none can do,
 but by persisting and continuing in the daily sanctification of the spirit,
 and belief and obedience of the Truth.
+
+[.small-break]
+'''
 
 2+++.+++ A second fruit that was brought forth from this good root,
 was unity and love one towards another; which, blessed be the Lord,
@@ -1582,6 +1584,9 @@ more than can now be named, or here inserted; but they are all out of the light,
 and if you are in it, you will see them, and that will preserve you; for it is one,
 and did make us one, and will keep us to be of one heart and mind to the end,
 if we abide in it.
+
+[.small-break]
+'''
 
 3+++.+++ The third good effect which Truth did work in
 the beginning in them who did truly receive it,
@@ -1935,9 +1940,13 @@ And we shall yet live to praise him, who is worthy of glory, of honour, and reno
 from the rising of the sun to the setting of the same, now and forever; amen, amen,
 says my soul.
 
+[.offset]
 A Postscript.
 
-Dear Friends and Brethren,--I have something further in my heart to communicate unto you,
+[.salutation]
+Dear Friends and Brethren,
+
+I have something further in my heart to communicate unto you,
 in dear and tender love,
 and in desire of your preservation out of the snare of your adversary: and that is,
 to exhort you all to dwell in the pure judgment of the Truth,
@@ -2028,13 +2037,14 @@ and the weak to be subject to the strong in the Lord,
 that so the pure plant of righteousness and Truth may grow in and among you all,
 to his praise that has called you; to whom be glory and honour forever, amen.
 
+[.signed-section-signature]
 Stephen Crisp
 
+[.centered]
 === A Word in Due Season: Or Some Harvest Meditations;
 
-With a warning from the Lord God to all the people in England,
-to leave off their wicked and foolish customs in their harvest,
-before the anger of the Lord be kindled against them, and there be no remedy.
+[.blurb]
+==== With a warning from the Lord God to all the people in England, to leave off their wicked and foolish customs in their harvest, before the anger of the Lord be kindled against them, and there be no remedy.
 
 Behold, the eye of the Lord has passed through the earth,
 and has beholden the abominations of the people and their customs,
@@ -2096,7 +2106,7 @@ that that may order and guide you into that which is convenient, and may stop th
 that whatsoever is done, may be done to the praise and glory of God,
 as becomes Christians.
 
-Let none be over covetous of drinking, neither '` in the time of your labour,
+Let none be over covetous of drinking, neither in the time of your labour,
 nor at any other time; for that hurts the creature, and destroys the health,
 and has overcome the life of many.
 When they have been strengthened by the Lord to labour,
@@ -2192,14 +2202,16 @@ This for the service of Truth, and for a warning to the foolishly disobedient,
 is again seen fit to be printed, that all may hear wisdom`'s counsel, repent,
 and amend their doings.
 
+[.centered]
 === A Plain Pathway Opened to the Simple-Hearted
 
-For the answering all doubts and objections which do arise
-in them against the light and truth in the inward parts;
-by which many are kept from obedience, and so from peace to their panting souls.
+[.blurb]
+==== For the answering all doubts and objections which do arise in them against the light and truth in the inward parts; by which many are kept from obedience, and so from peace to their panting souls.
 
+[.centered]
 by Stephen Crisp.
 
+[.salutation]
 Friends and People,
 
 I have had a deep exercise upon my spirit,
@@ -2776,33 +2788,35 @@ whether they hear or forbear.
 And though in bonds for the gospel`'s sake, yet the Lord`'s free man,
 waiting in patience and full assurance for Zion`'s full redemption.
 
+[.signed-section-closing]
 Known by the name,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.signed-section-context-close]
 Ipswich County Goal, this Third Month, 1668.
 
+[.centered]
 === A Backslider Reproved, and His Folly Made Manifest, and His Confusions and Contradictions Discovered.
 
-In a short reply to a book lately published by Robert Cobbet,
-called A Word to the Upright; who being turned from the light,
-now makes it his work to war against it, and them that walk in it:
-but his weapons are broken, and in his own snare is he taken.
+[.blurb]
+=== In a short reply to a book lately published by Robert Cobbet, called A Word to the Upright; who being turned from the light, now makes it his work to war against it, and them that walk in it: but his weapons are broken, and in his own snare is he taken.
 
-Written for the Truth`'s sake, by a servant thereof, known by the name of Stephen Crisp.
+[.blurb]
+==== Written for the Truth`'s sake, by a servant thereof, known by the name of Stephen Crisp.
 
-He that hides hatred with lying lips,
-and he that utters a slander is a fool.--Prov. 10:18.
+[.blurb]
+==== He that hides hatred with lying lips, and he that utters a slander is a fool.--Prov. 10:18.
 
-The lips of the righteous feed many, but fools die for lack of wisdom.--Ver.
-21.
+[.blurb]
+==== The lips of the righteous feed many, but fools die for lack of wisdom.--Ver. 21.
 
-A good man obtains favour with the Lord,
-but a man of wicked devices will he condemn.--Chap.
-xii. 2.
+[.blurb]
+==== A good man obtains favour with the Lord, but a man of wicked devices will he condemn.--Chap. xii. 2.
 
-Unto which is added, A brief Answer to a pamphlet, styled,
-A Brief Discovery of the Labourers in Mystery Babylon.
+[.blurb]
+==== Unto which is added, A brief Answer to a pamphlet, styled, A Brief Discovery of the Labourers in Mystery Babylon.
 
 It is not a new or strange thing, to see the old enemy of the light,
 the prince of darkness, diligent in raising up as high mountains and towers as he can,
@@ -3083,7 +3097,7 @@ coagulated into a spiritual substance for a centre of his insensitive life;
 and as thus compacted, is a creature of an eternal being,
 of an own self-subsisting consistency.
 
-Answer.
+_Answer._
 R+++.+++ C. has here described a creature that subsists of itself contrary to the scripture,
 that says all things are upheld by the Word.
 And besides this eternal creature, as he calls it, this spark of God`'s eternal nature,
@@ -3217,6 +3231,7 @@ as to bereave him of the use of if, as it has done;
 for truly is that scripture fulfilled in him, He that walks in darkness, stumbles,
 and knows not where he goes.
 
+[.offset]
 Concerning the Light that Enlightens Everyone that Comes into the World, What It Is,
 And What It Is Not, as Robert Cobbet Says.
 
@@ -3281,6 +3296,7 @@ which having lost its life, by the transgression of the man, to God is dead.
 
 Page 11. If the light in the conscience be Christ, then may Christ be darkness.
 
+[.offset]
 Concerning Christ, His Body, Soul, And Blood, And What He Is, And Is Not, As R. C. Says.
 
 Page 3. He is the everlasting Word, but as he was the man Christ, he was in time.
@@ -3344,6 +3360,7 @@ yes verily.
 Page 13. Which blood being the blood of his humanity, as he was creature,
 was that that did with God expiate for sin.
 
+[.centered]
 === A Letter from Germany to Friends Exhorting them to Diligence in Meetings.
 
 All Friends everywhere, who have tasted of the goodness of God,
@@ -3423,17 +3440,17 @@ and strengthen your faith, in which, and by which, the victory is obtained,
 which is the desire of my soul for you all,
 who am your friend in the fellowship of the gospel.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === A Word of Consolation, and a Sound of Glad Tidings To All the Mourners In Germany, and the Parts Adjacent.
 
-With a tender visitation and salutation of love to all that
-wait for redemption and freedom from the burden of sin:
-with an exhortation to love the appearance of the
-day of deliverance which is now dawning upon them.
+[.blurb]
+==== With a tender visitation and salutation of love to all that wait for redemption and freedom from the burden of sin: with an exhortation to love the appearance of the day of deliverance which is now dawning upon them.
 
-From one that seeks nothing more than the spreading of the everlasting gospel,
-that the meek and poor may be comforted thereby; known by the name of Stephen Crisp.
+[.blurb]
+==== From one that seeks nothing more than the spreading of the everlasting gospel, that the meek and poor may be comforted thereby; known by the name of Stephen Crisp.
 
 All you who hunger and thirst for the fulfilling of the
 promises of God made unto his holy and beloved Seed,
@@ -3523,6 +3540,9 @@ and should be offended at his coming in one appearance, whom you may look for in
 as the Jews of old were.
 Therefore in the fear of the Lord consider these following things.
 
+[.small-break]
+'''
+
 1+++.+++ Consider what it is that must be destroyed in
 this day of the Lord that comes to visit your nations;
 it is the works of the devil, who is the author of sin, and his work is not destroyed,
@@ -3549,6 +3569,9 @@ but wait in humility to feel that you are the slain of the Lord,
 which the prophet said should be many, in his great and notable day; and fear not,
 for he that kills you to what is old,
 shall raise you up in the new life of righteousness that never waxes old.
+
+[.small-break]
+'''
 
 2+++.+++ Consider what it is that must be set up in this
 day of the Lord that is visiting the nations;
@@ -3704,10 +3727,13 @@ and in the earnest expectation of the redemption of Zion`'s oppressed Seed,
 for the sake whereof I do labour and suffer both in body and spirit,
 and will yet willingly labour, until my course be finished.
 
+[.signed-section-closing]
 I am a lover of all men`'s souls, known among men by the name,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === An Epistle from Stephen Crisp, to Friends in Colchester.
 
 Dearly beloved friends, brethren and sisters,
@@ -3789,10 +3815,13 @@ minding always its leading and guidance,
 which will at last lead every one that believes and obeys into perfect rest.
 So dearly beloved in the Lord, farewell, be faithful, be of good courage.
 
+[.signed-section-closing]
 Your friend and brother in the Truth.
 
+[.signed-section-signature]
 Stephen Crisp
 
+[.centered]
 === An Answer of Stephen Crisp, to Thomas Loddington.
 
 Friend, your letter I have received, though until now I had not opportunity,
@@ -4004,8 +4033,10 @@ And he is able to do it, and to him I leave you, who must judge both you and me,
 who knows I have nought in my heart towards you, but love to your poor immortal soul,
 and remain your friend,
 
+[.signed-section-signature]
 Stephen Crisp
 
+[.centered]
 === An Epistle from Stephen Crisp, to Friends.
 
 Dear plants and babes of an immortal generation,
@@ -4116,17 +4147,22 @@ and his name over every name, in which is your strength,
 and the strength of your dear friend and brother, in the kingdom,
 life and patience of the Lamb and holy seed.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.postscript]
 Let copies of this be carefully written and sent forth among
 Friends in the East and North Ridings of Yorkshire,
 to be read in the sensible feeling life of the holy and beloved Seed of blessing,
 when Friends, in it are met together.
 
+[.centered]
 === John Furly`'s translations of two of Stephen Crisp`'s Epistles, in Dutch, to Friends at Amsterdam.
 
+[.signed-section-context-open]
 Amsterdam, the 28th of the Fourth month, 1667.
 
+[.salutation]
 Dear Friends,
 
 For this end has the Lord God of heaven and earth
@@ -4178,12 +4214,17 @@ which will daily be discovered by the light to all such as diligently wait in it
 In the fellowship of which pure everlasting light of Christ Jesus, I am your friend,
 and a lover of your souls, and a servant of the everlasting gospel of God,
 
+[.signed-section-signature]
 Stephen Crisp
 
+[.postscript]
 Friends, keep your meetings in the name of the Lord with diligence,
 and let this be read among you in your assemblies.
 
-Friends,--Our fellowship stands in the gospel of peace,
+[.salutation]
+Friends,
+
+Our fellowship stands in the gospel of peace,
 which is the power of God which is everlasting, and which is not of this world.
 If you keep low in this power of God which is not of this world,
 then have you fellowship, and the gospel of peace is felt,
@@ -4215,19 +4256,25 @@ you come to receive the wisdom that is from above, which is first pure,
 then peaceable and without end; through which you will be led to a right spirit,
 and to walk in the path of the just, which is holiness; which brings us to see God.
 
+[.signed-section-closing]
 The Almighty God keep and preserve you all to the end, Amen.
 
+[.signed-section-signature]
 Stephen Crisp
 
+[.signed-section-context-close]
 London, 6th of the Twelfth month, 1667.
 
+[.postscript]
 Let this be read in your assemblies, when you are met in the name and fear of the Lord.
 
+[.centered]
 === An Epistle from Stephen Crisp to Friends,
 
-Against such as cry out against the form of Godliness, as against meeting at set times,
-on first-days, etc.
+[.blurb]
+==== Against such as cry out against the form of Godliness, as against meeting at set times, on first-days, etc.
 
+[.salutation]
 Oh My Dear Friends,
 
 My soul with love unfeigned salutes you,
@@ -4357,34 +4404,25 @@ in which my soul desires you may be kept, I bid you farewell;
 who am your Friend and companion in the Truth,
 and acquainted with the burdens of them that cause trouble, whom God will repay.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === An Alarm Sounded in the Borders of Spiritual Egypt,
 
-Which shall be heard in Babylon,
-and astonish the inhabitants of the defiled and polluted habita tions of the earth.
-And the power of the prince of darkness called into question,
-and he himself examined by the Truth, how he came to reign over mankind,
-and how long his time shall be, till he come to be cast out of his dominion,
-and the creatures be delivered from under his tyranny,
-to serve God in spirit and in Truth, as Christ the Prince of Peace has ordered them.
-Also the number of him whom the world has wondered after,
-found out and demonstrated to be near at an end; and withal,
-that it is no ways unlawful nor in vain,
-both to hope and expect the utter desolation and destruction of sin in this life,
-and the setting up of perfect righteousness in the souls of men,
-where sin has too long reigned.
+[.blurb]
+==== Which shall be heard in Babylon, and astonish the inhabitants of the defiled and polluted habitations of the earth. And the power of the prince of darkness called into question, and he himself examined by the Truth, how he came to reign over mankind, and how long his time shall be, till he come to be cast out of his dominion, and the creatures be delivered from under his tyranny, to serve God in spirit and in Truth, as Christ the Prince of Peace has ordered them. Also the number of him whom the world has wondered after, found out and demonstrated to be near at an end; and withal, that it is no ways unlawful nor in vain, both to hope and expect the utter desolation and destruction of sin in this life, and the setting up of perfect righteousness in the souls of men, where sin has too long reigned.
 
-Written in a testimony to the Truth,
-and against the false position of the devil and his servants, by a servant of God,
-Stephen Crisp.
+[.blurb]
+==== Written in a testimony to the Truth, and against the false position of the devil and his servants, by a servant of God, Stephen Crisp.
 
-Then came his disciples, and said unto him,
-know you that the Pharisees were offended after they heard this saying, --but he said,
-let them alone, they be blind leaders of the blind, etc.--Matt. 15:12-14.
+[.blurb]
+==== Then came his disciples, and said unto him, know you that the Pharisees were offended after they heard this saying, --but he said, let them alone, they be blind leaders of the blind, etc.--Matt. 15:12-14.
 
-He that commits sin is of the devil, etc.--1 John 3:8.
+[.blurb]
+==== He that commits sin is of the devil, etc.--1 John 3:8.
 
+[.salutation]
 To The Reader,
 
 Courteous reader,
@@ -4447,9 +4485,11 @@ why should we not then hope for, and expect the fulfilling thereof?
 And so, courteous reader, having given you this short caution and instruction,
 I leave you to read the following discourse, and remain a friend to you and all men.
 
+[.signed-section-signature]
 Stephen Crisp
 
-An Alarm Sounded in the Borders of Spiritual Egypt, Etc.
+[.centered]
+=== An Alarm Sounded in the Borders of Spiritual Egypt, Etc.
 
 Many are the devices of Satan,
 and great is the subtlety with which he furnishes his children and servants,
@@ -4598,14 +4638,18 @@ notwithstanding they do profess him to be pure to whom they offer.
 Thus was this first sacrificer blind and darkened, and so are many thousands after him,
 and the dominion of the devil was over him.
 
-First, Deceiving him by leading him to expect an acceptance, because he offered,
+[.numbered]
+_First,_ Deceiving him by leading him to expect an acceptance, because he offered,
 though with an evil heart.
 
-Secondly, To lead him into the evil which had kept him from acceptance.
+[.numbered]
+_Secondly,_ To lead him into the evil which had kept him from acceptance.
 
-Thirdly, By making him wroth and angry,
+[.numbered]
+_Thirdly,_ By making him wroth and angry,
 (because he was not accepted,) against his brother that did well,
 and was partaker of the one sure faith of the elect seed of God.
+
 The serpent having thus darkened his mind, then he dared come before him with a lie,
 (though he was a man,
 of whom Eve thought that she had gotten him from the Lord,) persuading him,
@@ -4706,12 +4750,18 @@ and in the everlasting fire; yet they notwithstanding, without doing good,
 expect to enjoy their Elysium, namely,
 a heaven where God and the holy angels dwell forever.
 
+[.offset]
 Now let us examine a little what reason there is for this great mistake.
 
-First, they say, that sin is rooted and planted in the nature of man; yes,
+[.numbered]
+_First,_ they say, that sin is rooted and planted in the nature of man; yes,
 so that a man must cease to be a man, before he can cease from being a sinner.
 
-Answer.
+[.small-break]
+'''
+
+[.no-indent]
+_Answer._
 That man in his natural state is so united with sin,
 as that he thereby is separated from God, I do not deny;
 and also that there is a natural inclination in man to commit sin, is also true; that is,
@@ -4757,8 +4807,8 @@ But now that this rule and government should not only be universal,
 but also irresistible and unalterable; yes, though God Almighty stretch forth his power,
 to redeem any out of this kingdom, to bring them into the kingdom of his dear Son;
 yet they say, it is impossible for him, till he dies.
-It is as much as to say, if God will have any man to ser-ve him perfectly,
-he must first kill him, and then he shall have him to his ser-vice in another world.
+It is as much as to say, if God will have any man to serve him perfectly,
+he must first kill him, and then he shall have him to his service in another world.
 Oh horrible ignorance of the power of God,
 and of the end for which Christ came into the world! namely,
 to destroy the devil and his works.
@@ -4803,12 +4853,12 @@ because they are yet in their sin and corrupted nature, unchanged, untranslated.
 So that those that hold this plea for the devil,
 that because he once got a place in the nature of man, and has corrupted it,
 therefore sin must remain, so long as the life or nature remains;
-such are strangers to the wor`'k of God, and to his power, by which he works,
+such are strangers to the work of God, and to his power, by which he works,
 and also to Christ Jesus, through whom he works.
 They have more faith in the power of the devil, than in the power of Christ,
 believing that the devil is more able to keep the creature, and to hold fast that,
 which by deceit and treachery he has gotten in it; than God,
-who made the creature good in his natur-e, is able to restore it to his first purity,
+who made the creature good in his nature, is able to restore it to his first purity,
 that the creature might come to serve him in righteousness and holiness.
 Such as so believe, are no true Christians, nor true believers;
 but are standing in the corrupt nature, that has unity with the devil,
@@ -4819,11 +4869,16 @@ You cannot bring forth a clean sacrifice, out of an unclean vessel;
 and as long as nature is defiled,
 the works will be unclean that are wrought in that nature.
 
-Secondly, The second pleading is, that never any man was freed from sin,
+[.numbered]
+_Secondly,_ The second pleading is, that never any man was freed from sin,
 since sin first entered into the world;
 and that therefore it is presumption to expect such a thing in this life.
 
-Answer.
+[.small-break]
+'''
+
+[.no-indent]
+_Answer._
 If this position were true, that there was never any man freed from sin,
 yet it would be presumption to say,
 that God should not be able to do that which he never did;
@@ -4935,13 +4990,18 @@ and therefore cannot be made free from sin, they will exclude themselves,
 which they will hardly do, because they would eagerly have a name of being believers,
 though they deny the works of true faith in themselves.
 
+[.offset]
 Further,
 let us consider with what these strong pleaders for sin have to fortify themselves.
 They say, they have the scripture to plead for sin,
 which certainly was never the intention of the Holy Spirit, by which it was given forth.
 But, say they, it is written in 1 Kings 8:46, For there is no man that sins not.
 
-Answer.
+[.small-break]
+'''
+
+[no-indent]
+_Answer._
 This is very true,
 neither do I plead that any man is free from sin all the days of his life,
 (except Christ,) but have confessed they are all sinners by nature,
@@ -4962,11 +5022,16 @@ that they will rather deny the better hope, than to cease from sin?
 If not, then there is a possibility to be made perfect by the blood of Christ,
 which the blood of bulls and goats could not do.
 
+[.offset]
 Another objection is brought forth, that is, that the apostle Paul said,
 that sin lived in him, and that the good that he would do he did not;
 and the evil that he would not do, that he did.
 
-Answer, That Paul knew the passing through such a state, is without a question,
+[.small-break]
+'''
+
+[.no-indent]
+_Answer._ That Paul knew the passing through such a state, is without a question,
 and is not denied.
 But this does not prove at all that he never knew a belter state;
 or that he never came to perfection, for in that place he makes mention of three states.
@@ -5082,7 +5147,11 @@ Yet some will say, that the apostle in that place uses the word we,
 as if he included himself; as if he would say at that time, if I should say,
 that I had no sin, etc.
 
-Answer.
+[.small-break]
+'''
+
+[.no-indent]
+_Answer._
 This is no proof at all, because the contrary is proved before, namely,
 that he had fellowship with God and Christ; which no man could have,
 that walked not in the light, as he is in the light.
@@ -5123,10 +5192,15 @@ contrary to Rom.
 vi, 22, I make haste to the third great argument of these captives,
 which they lay down against their own freedom.
 
+[.offset]
 Thirdly, That is, that it is the will of God,
 to let some sins remain in the best of his people, to keep them humble thereby.
 
-Answer, If it be the will of God, that his best servants should sin,
+[.small-break]
+'''
+
+[.no-indent]
+_Answer._ If it be the will of God, that his best servants should sin,
 then his will is done when they sin.
 And what reason have any men to be humbled and cast down,
 because they have done the will of God?
@@ -5748,6 +5822,7 @@ and to the everlasting God,
 by the operation of the Holy Spirit in the hearts of the redeemed,
 be sung everlasting praises, thanksgiving, renown, honour, glory, and dominion forever.
 
+[.offset]
 Postscript.
 
 Something further comes up in my heart concerning this matter,
@@ -5901,6 +5976,7 @@ and those that come to a perfect state, know that their salvation is not of thei
 how good and pure soever they may be, but merely by grace through Jesus Christ,
 and that in respect of these three following observations.
 
+[.numbered]
 1+++.+++ First, That it was the appearance of Christ Jesus, who is the power of God,
 that brought them off from their sin and imperfection;
 and that they have not left them off of themselves, but do own,
@@ -5914,6 +5990,7 @@ and this perfection is not yet a perfect salvation; for those that have it,
 may fall from it again, and so not be saved;
 but those that endure to the end shall be saved.
 
+[.numbered]
 2+++.+++ But Secondly, It is Christ who is the preserver and keeper unto the end,
 of those that trust in him; and the apostles testify,
 that those who were delivered from the corruption of this world,
@@ -5929,6 +6006,7 @@ So here you may see, that the bringing to the state of perfection,
 and the keeping from falling from it again, are both the work of Christ; and yet,
 this is not a perfect salvation; for this does not put away the former sins.
 
+[.no-indent]
 3+++.+++ But Thirdly, Whoever comes to perfect salvation,
 he comes to know Christ to be an offering for sin, and to obtain reconciliation with God,
 and forgiveness of his former sins.
@@ -5958,12 +6036,14 @@ who is the firstborn of every creature, that brings many sons and daughters unto
 but not by leaving them in their sins; but his name is Jesus,
 and he saves people from their sins.
 
+[.signed-section-signature]
 Stephen Crisp
 
+[.centered]
 === To the Magistrates of Groningen, in the United Provinces.
 
 You rulers and burghermasters of Groningen,
-I have a message unto you in the name ofthe God of heaven and earth,
+I have a message unto you in the name of the God of heaven and earth,
 on the behalf of his truth and people.
 Therefore hearken to my words, and consider them, for in love to your souls,
 and to your city and country, do I write unto you.
@@ -6057,22 +6137,20 @@ who have rather chosen, as Moses did, to suffer affliction with the people of Go
 than enjoy the pleasures of sin, which are but for a short season.
 So the Lord give you a considerate and understanding heart.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === A Lamentation Over the City of Groningen.
 
-Containing an answer to four papers written against the people called Quakers,
-two by the Magistrates, and two lies sung in the street,
-by the wild and ungodly ballad singers,
-which shows that the spirit of persecution and mockery comes all from one ground.
+[.blurb]
+=== Containing an answer to four papers written against the people called Quakers, two by the Magistrates, and two lies sung in the street, by the wild and ungodly ballad singers, which shows that the spirit of persecution and mockery comes all from one ground.
 
-Hear this word which I take up against you, even a lamentation,
-O House of Israel.-- Amos 5:1.
+[.blurb]
+==== Hear this word which I take up against you, even a lamentation, O House of Israel.-- Amos 5:1.
 
-And I will turn your feasts into mourning, and all your songs into lamentation,
-and I will bring up sackcloth upon all loins, and baldness upon every head:
-and I will make it as the mourning of an only son,
-and the end thereof as a bitter day.--Amos 8:10.
+[.blurb]
+==== And I will turn your feasts into mourning, and all your songs into lamentation, and I will bring up sackcloth upon all loins, and baldness upon every head: and I will make it as the mourning of an only son, and the end thereof as a bitter day.--Amos 8:10.
 
 What lamentation shall I take up over you, O Groningen! that are a great city,
 increased in riches, people and wickedness,
@@ -6705,10 +6783,13 @@ that a prophet and a message from God has been among you.
 I am a friend to you all, and to all men, and one that labours for the good of all,
 and waits in patience to see Zion`'s redemption.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === To the Baptists in Holland, with a query for them to answer.
 
+[.salutation]
 Friends,
 
 The occasion of my writing to you at present, is from yourselves.
@@ -6788,8 +6869,10 @@ and also make you partakers of this one baptism; which is my hearty desire for y
 So I expect your answer, either by writing or print, as you will,
 and remain a friend to the Truth, and one that wishes well to all men.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === A Testimony Concerning Edward Graunt of Colchester.
 
 Edward Graunt, a man of near seventy years,
@@ -6850,8 +6933,10 @@ So that the Lord has marked out the hour and minute for a memorial of their crue
 in causing him in the same hour and minute to finish and complete his testimony;
 and in peace and patience to rest with himself.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === An Epistle from Stephen Crisp, when a prisoner.
 
 O you lambs of the green pasture! you sheep of my Father`'s fold! you
@@ -6928,8 +7013,10 @@ and will yet deliver us;
 to whom be everlasting praises and holy thanksgiving forever and ever.
 Amen.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === An Epistle from Stephen Crisp, to Friends.
 
 Dearly beloved in the Truth,
@@ -6946,7 +7033,7 @@ For, dear Friends, this is a certain saying, and worthy to be believed,
 that all temptations to evil, both inward and outward, of what sort soever they may be,
 do spring from that power which God will in time bring down,
 and break to pieces for his seed`'s sake.
-They Ihat abide low in the lowly seed, shall behold their deliverance with rejoicing,
+They that abide low in the lowly seed, shall behold their deliverance with rejoicing,
 and shall bless the God of their salvation forever.
 But if anyone in the hour of temptation,
 lift up himself above that tender Spirit that teaches a whole dependance upon God;
@@ -7049,8 +7136,10 @@ that in the end you may rest in him, with all the faithful.
 This is the earnest breathing and desire of your true friend,
 in the fellowship of the gospel of peace,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === An Epistle from Stephen Crisp, to Friends in the North.
 
 Dear and truly beloved,
@@ -7178,10 +7267,13 @@ To whom belong everlasting honour, everlasting renown and dominion forever and e
 Your dear friend and brother in the Truth, and companion in the kingdom, patience,
 and tribulations of Jesus.
 
+[.signed-section-signature]
 Stephen Crisp,
 
+[.centered]
 === An Epistle from Stephen Crisp to Friends in the Eastern parts.
 
+[.salutation]
 Dearly beloved Friends,
 
 In that love that is better felt than expressed, do I dearly salute you,
@@ -7218,12 +7310,16 @@ showing how they err from the scriptures, in live principal particulars,
 as baptism and the Lord`'s supper, their foundation, ministry and worship,
 which I would also further as fast as I can.
 
+[.signed-section-closing]
 I shall not enlarge, but remain your dear friend and brother in the Truth,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === Another Epistle from Stephen Crisp to Friends.
 
+[.salutation]
 Dearly beloved Friends,
 
 In the fellowship of that pure Spirit by which the Lord has reached unto us,
@@ -7320,12 +7416,14 @@ and I know God does and will hear the supplications and cries of his own;
 and in this confidence and faith,
 I remain your true and real friend in the gospel of peace,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === To the Rulers and Inhabitants in Holland, and the Rest of the United Provinces.
 
-The original manuscript of a book in Dutch,
-called The Ground and Cause of the Misery of the Netherlands.
+[.blurb]
+=== The original manuscript of a book in Dutch, called __The Ground and Cause of the Misery of the Netherlands.__
 
 Oh, Holland, and the adjacent provinces, a renowned land, a land full of riches,
 full of people, full of religion, and full of all iniquity!
@@ -7419,12 +7517,12 @@ Where is that zeal and fervency that appeared for reformation a hundred years si
 no,
 is it not become a crime for any man to seek a further reformation
 than that which is stinted and limited by men of corrupt minds?
-Steets genegen tot alle boosheit, alle de gebooden godts brekende.
-Belid. 5. Dort. 61. Art.
+_Steets genegen tot alle boosheit, alle de gebooden godts brekende.
+Belid. 5. Dort. 61. Art._
 Is not this the top of your reformation?
 If any come to preach a freedom from sin, and a clean sacrifice out of a clean heart,
 and the change of the nature that God works in his children,
-that they come Steets genegen tot alle good heyt;
+that they come _Steets genegen tot alle good heyt;_
 how hateful is such doctrine both to priests and people, as if they should say,
 we will have no more reformation than we have, that is,
 to pray and preach with sinful hearts, and to perform sinful performances,
@@ -7454,6 +7552,7 @@ and that shall you know to be true from the Lord, to you all, both one sort and 
 who worship in that fallen state and sinful condition,
 and neither come to know a cleansing, nor so much as a hope thereof raised up in you.
 
+[.numbered]
 2+++.+++ Again,
 consider the rendings and tearings that are among
 you upon the account of doctrine and worship,
@@ -7486,6 +7585,7 @@ Ixvi.
 5, yet you are going on with it against them whom you hate,
 and thereby provoke the Lord to anger.
 
+[.numbered]
 3+++.+++ Again, consider the means you are using for deliverance in this day of your distress,
 and see whether you are not working the contrary way,
 and thereby provoking the Lord more and more.
@@ -7551,6 +7651,7 @@ which were imposed upon them, in which they had no faith nor unity with them.
 Consider these things, and Set conscience be free for God to rule there,
 for it is his dwelling-place.
 
+[.numbered]
 4+++.+++ Consider what use is at this time made of your low state,
 that instead of turning to the Lord, whose heavy hand is upon you,
 and passing by offences wherein you have offended each other, and forgiving injuries,
@@ -7590,6 +7691,7 @@ and withering dignities, and there exalt themselves as they have done,
 for that is the way to bring down more judgments and plagues upon this distressed land,
 and always to be unsettled and filled with confusion.
 
+[.numbered]
 5+++.+++ It is worth the consideration of all men how the mighty hand of God
 is manifested in this our age in breaking the decrees and force of men,
 and in overturning all devices which are contrived
@@ -7629,6 +7731,7 @@ Proverbs 8:15, By me kings reign and princes decree justice,
 etc. and happy is that king, prince, or ruler, who takes wisdom for his guide,
 and the fear of God, which is the beginning thereof, for his counsellor.
 
+[.numbered]
 6+++.+++ Consider the condition of the burghers in this land,
 who in most cities have put themselves in a posture of defence against their enemies,
 and let the wise in heart judge whether, in their present state and condition,
@@ -7688,6 +7791,7 @@ Oh! repent, repent, and cease to do evil, and cleanse your hearts, and purify yo
 you double-minded, or else the hand that is lifted up against you, will lay you waste,
 and none shall be able to deliver you.
 
+[.numbered]
 7+++.+++ In the next place,
 consider what you are doing all you who are daily raising tumults
 and insurrections in the bowels of this distressed land,
@@ -7724,6 +7828,7 @@ than by filling the land with tumults and uproars, with violence and cruelties?
 To that +++[+++witness]
 of God in all consciences I speak, let that answer me.
 
+[.numbered]
 8+++.+++ And now the bands of government are broken among you, and must be again made up,
 or else you must inevitably perish; let every one, both high and low,
 consider what government in itself is, that so you may from the true origin thereof,
@@ -7841,9 +7946,9 @@ until they are converted or consumed.
 To conclude, I say with Malachi, both to priests and people.
 They shall find the day of God to be as a fiery oven,
 and all that do not lay his word to heart, shall be as fuel.
-Read Mal. 2:1-2. iv.
-1.
+Read Mal. 2:1-2. iv. 1.
 
+[.centered]
 === An Epistle from Stephen Crisps to the Princess Elizabeth in Germany.
 
 In that love that is universal and free in its own flowings forth,
@@ -7913,7 +8018,8 @@ Therefore, that I may clear my conscience in God`'s sight,
 and answer the tender operations of love, which I feel in my heart towards you,
 let me exhort you to faithfulness to the love of God so manifest unto you.
 
-First, I say with the prophet, despise not the day of small things,
+[.numbered]
+_First,_ I say with the prophet, despise not the day of small things,
 nor the branch that springs out of a dry ground;
 for he whose visage is more marred than any man`'s,
 is the fountain of treasure to them that believe and obey him.
@@ -7936,7 +8042,8 @@ reprovings and discoveries.
 This will stop the mouths of all opposers, who are finding fault with it,
 as low and mean, and yet walk not up to it.
 
-Secondly, Beware of that which would exalt itself in the vision of heavenly things,
+[.numbered]
+_Secondly,_ Beware of that which would exalt itself in the vision of heavenly things,
 and take the vision for a possession, as too many have done.
 But in times of openings and discoveries, keep low,
 and be of a plain and single heart before the Lord; for vision is for encouragement,
@@ -7953,7 +8060,8 @@ that you may feel his gentle leadings to lead you into the
 enjoyment and possession of what you have seen,
 that you then may witness forth his praise to the sons and daughters of men.
 
-Thirdly, Beware of your own will,
+[.numbered]
+_Thirdly,_ Beware of your own will,
 which would run hastily forth after those things which in and by the will of man,
 cannot be attained;
 but watch diligently to know your own will subject to the will of God in all things.
@@ -7965,7 +8073,8 @@ when they had done the will of God, how much need have such to be patient,
 and to watch the hasty will which would have the promise, and the power, and peace,
 and rest, etc., when they are yet far short of having done the will of God?
 
-Fourthly, let no man deceive you, either by puffing you up, or casting you down,
+[.numbered]
+_Fourthly,_ let no man deceive you, either by puffing you up, or casting you down,
 for it is the Lord that knows the heart, and not only knows it, but discovers it,
 and his discovery is true, and ought to be believed.
 No better or worse is anyone`'s state,
@@ -7992,7 +8101,8 @@ But it must be accomplished in you first, and that by his divine assistance,
 and through pure judgment; for Zion was always redeemed with judgments,
 and her converts with righteousness.
 
-Fifthly, Beware of the friendship of this world,
+[.numbered]
+_Fifthly,_ Beware of the friendship of this world,
 for it is destructive to the work of God, and is oppressive to his seed.
 When his seed cries to him, from under the oppression of the spirit of this world,
 the Lord will hear, and visit you in judgment for his seed`'s sake;
@@ -8018,7 +8128,8 @@ when sheep and goats, lovers of this world, and lovers of Christ more than all,
 shall be separated one from another, and the world`'s lovers shall perish with the world,
 and Christ`'s true lovers shall reign with him forevermore.
 
-Sixthly, Let your power which God has given you in the earth,
+[.numbered]
+_Sixthly,_ Let your power which God has given you in the earth,
 shine forth in righteousness, in mercy, and in truth; for, for that end are you called,
 to set forth a good example in the administration of justice, and easing the oppressed,
 encouraging them that do well, and being a terror to all evil doers;
@@ -8051,10 +8162,13 @@ and so many as in measure are made partakers of the
 precious faith that is in Christ Jesus our Lord;
 in whom farewell.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === An Epistle from Stephen Crisp, to be read in the Women`'s Meetings of Friends in Ipswich.
 
+[.salutation]
 Friends,
 
 In that love that springs from the root of life,
@@ -8100,26 +8214,31 @@ for the comfort and example of them that follow after.
 Also choose out one of each particular meeting, and lay it upon them in the Lord,
 to take care in their respective meetings on your behalf:
 
+[.numbered]
 1+++.+++ That no women, young or old, in their respective meetings,
 walk disorderly or wantonly, but that they be admonished and counselled speedily.
 
+[.numbered]
 2+++.+++ That no necessities that my fall upon any who are worthy,
 may be neglected or disregarded, or delayed, until a meeting,
 but they may be forthwith comforted;
 that so the enemy who lies in wait to tempt the poor in the hour of their distress,
 may be prevented.
 
+[.numbered]
 3+++.+++ That no maids carry themselves unseemly toward their mistresses,
 nor mistresses toward their servants: but if such things should happen,
 let the matter be taken up and ended,
 and not to part asunder with evil in their minds one toward another;
 for that will spread and hurt others.
 
+[.numbered]
 4+++.+++ That all women professing Truth, and having children,
 may bring them up in the fear of God; and that they use no uncomely,
 rash or passionate words unto them, for that sows an evil seed in the children,
 which may come up, and dishonour God in the next generation.
 
+[.numbered]
 5+++.+++ That no women-Friends may speak evil of one another, nor fall out with one another;
 nor carry evil in their minds one against another; nor bear tales about,
 to beget others into evil, and into partyship,
@@ -8146,26 +8265,34 @@ to be fellow-helpers with the Lord in his work, comfort and refreshment to your 
 and to leave a holy, innocent,
 upright testimony and example to the generations that shall follow after.
 
+[.signed-section-closing]
 I rest your friend in the Truth,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === An Epistle of Tender Counsel and Advice, To All That Have Believed the Truth Everywhere, To Exhort Them To Faithfulness Thereunto,
 
-1+++.+++ In taking heed of settling in a formality, without power.
+[.centered]
+==== 1+++.+++ In taking heed of settling in a formality, without power.
 
-2+++.+++ To take heed the spirit of this world does not drink up their spirits.
+[.centered]
+==== 2+++.+++ To take heed the spirit of this world does not drink up their spirits.
 
-3+++.+++ To keep their word, and let their yes be always yes.
+[.centered]
+==== 3+++.+++ To keep their word, and let their yes be always yes.
 
-4+++.+++ Not to trust too much to education, etc.
+[.centered]
+==== 4+++.+++ Not to trust too much to education, etc.
 
-5+++.+++ To love one another.
+[.centered]
+==== 5+++.+++ To love one another.
 
-Written by one that travails for Zion`'s prosperity,
+[.blurb]
+==== Written by one that travails for Zion`'s prosperity, Stephen Crisp.
 
-Stephen Crisp.
-
+[.salutation]
 Dearly beloved friends, brethren and sisters,
 
 The salutation of my dear love, in the flowings forth of life in the Lord Jesus Christ,
@@ -8227,7 +8354,8 @@ and he that judges,
 will also by judgment deliver them that are caught in Satan`'s snares,
 if they do hearken and submit to his leadings.
 
-1st. Take heed, my dear Friends, of holding the Truth in a bare formality,
+[.numbered]
+_1st._ Take heed, my dear Friends, of holding the Truth in a bare formality,
 satisfying yourselves that you have for a long time owned the way of Truth,
 and the assemblies of the Lord`'s people,
 and appeared as they have done in all outward things,
@@ -8352,7 +8480,8 @@ of Truth might be awakened before it be too late.
 However, I am thus far clear of their blood, and if they perish,
 the fault will be their own.
 
-2ndly.
+[.numbered]
+_2ndly._
 A second thing that lies upon me to warn you all of, my dear Friends,
 is to watch against the spirit of this world, lest it drink up your spirits too much,
 in an eager and greedy pursuit after the things of this world,
@@ -8406,7 +8535,8 @@ to govern you in your affairs, that so he may as really be acknowledged by you,
 the Lord of earth as well as heaven, the ruler of your trading and dealings,
 as well as of your religion and profession.
 
-3rdly.
+[.numbered]
+_3rdly._
 Friends, I desire you to remember, that the crown of our profession was,
 that our yes was yes, and our no was no,
 and so it is still with all the faithful followers of the Truth;
@@ -8478,7 +8608,8 @@ but in love and meekness let it be received,
 as from one that travails for your prosperity,
 and warns you of the snares of your soul`'s enemy.
 
-4thly.
+[.numbered]
+_4thly._
 Friends, the next thing that lies upon me,
 is in respect unto such as have been brought up and educated among us,
 and are grown up,
@@ -8575,7 +8706,8 @@ and has him for its support in the greatest exercises.
 Then shall you stand and remain, and be a generation chosen of God,
 to bear his name and testimony, and to commit it to the next generation.
 
-Fifthly.
+[.numbered]
+_5thly._
 Friends, let the brotherly love that was sown in your hearts,
 as a precious seed in your first convincement, continue and increase daily,
 that as you are made partakers of one hope of salvation in Christ Jesus,
@@ -8652,12 +8784,16 @@ and in the sense of his power,
 and of the life he has revealed in every member of his whole body, I salute you all,
 and bid you farewell.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === An Epistle from Stephen Crisp, to Friends at Danlzic.
 
+[.signed-section-context-open]
 Amsterdam, this 19th of the Fifth month, 1680.
 
+[.salutation]
 Dear Friends,
 
 In the fellowship of that life that was before death was, do I dearly salute you,
@@ -8758,15 +8894,17 @@ to your joy and comfort, amen.
 Your friend and brother in the tribulation and patience of Christ,
 the head of the true body, which is his Church,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === A Babylonish Opposer Of Truth, By The Truth Reproved;
 
-And his enmity, falsehood, and confusion manifested.
-In Answer to an impertinent paper sent abroad by Thomas Crisp;
-in which his false foundation is discovered, and his building brought upon his own head.
+[.blurb]
+=== And his enmity, falsehood, and confusion manifested. In Answer to an impertinent paper sent abroad by Thomas Crisp; in which his false foundation is discovered, and his building brought upon his own head.
 
-Written by a servant of Truth, and witness against lying and liars, Stephen Crisp.
+[.blurb]
+==== Written by a servant of Truth, and witness against lying and liars, Stephen Crisp.
 
 Thomas Crisp, you or some other of your party, having directed a printed paper to me,
 called Babel`'s builders unmasking themselves; I have read the same,
@@ -8996,16 +9134,23 @@ Have you not played the foolish woman, that pulled down her house with her own h
 But as if you had herein spoken too much truth,
 you seek to bury it again with three or four palpable lies in the next page.
 
-First, "`G. F. seemingly disowns the paper, yet owns it too.`"
+[.discourse-part]
+_First,_ "`G. F. seemingly disowns the paper, yet owns it too.`"
 
-Secondly, "`The whole scope of their letter is,
+[.discourse-part]
+_Secondly,_ "`The whole scope of their letter is,
 that they are only dissatisfied with the wording of it.`"
 
-Thirdly, "`That we have nothing against them we call opposers,
+[.discourse-part]
+_Thirdly,_ "`That we have nothing against them we call opposers,
 but their not submitting to G. F.`'s orders without conviction.`"
 
-Fourthly, "`That G, F. etc. does not at all contradict the principles in the paper,
+[.discourse-part]
+_Fourthly,_ "`That G, F. etc. does not at all contradict the principles in the paper,
 only the subscribing of it,`" p. 13.
+
+[.small-break]
+'''
 
 Is not this strange work, that you should set your name to such notorious untruths,
 and things wherein you yourself show everybody how to contradict you too.
@@ -9058,6 +9203,10 @@ But I do judge and condemn that hasty spirit,
 that set time for his dying and called it the word of the Lord,
 and do desire this may go as far as wherever it may have a service for Truth.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 S+++.+++ E. Barbados, the 30th of the 3rd month, 1681.
 
 As I was sitting waiting upon the Lord, on the 29th instant,
@@ -9082,10 +9231,12 @@ But I do judge and condemn that hasty spirit,
 that set time for his dying and called it the world of the Lord,
 and do desires that this may go as far as wherever it may have a service for Truth.
 
+[.signed-section-signature]
 S+++.+++ E.
 
-Barbados, the 30th of the 3rd month, 1681
+--
 
+[.centered]
 === An Epistle from Stephen Crisp, to Friends in Norwich.
 
 Dearly beloved friends and brethren,
@@ -9198,10 +9349,13 @@ and with every good work.
 This is the earnest prayer and breathing of life for you all,
 in your friend and brother in the fellowship of the gospel of peace,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === An Epistle from Stephen Crisp, to Friends in Amsterdam.
 
+[.salutation]
 Dear Friends,
 
 To you who are kept alive to God in your several measures of his grace and Truth,
@@ -9248,17 +9402,19 @@ and praises will be offered to God through him that
 has received all power in heaven and earth,
 to whom belong the kingdom, the power and the glory, forevermore.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === A Faithful Warning and Exhortation to Friends, to Beware of Seducing Spirits,
 
-And to keep on the armour of light in simplicity and sincerity,
-as their best armour in all trials.
+[.blurb]
+=== And to keep on the armour of light in simplicity and sincerity, as their best armour in all trials.
 
-Written by a lover of sincerity, and a travailer for Zion`'s redemption,
-and for the removing of all oppressions from off the souls of them who have believed;
-Stephen Crisp.
+[.blurb]
+==== Written by a lover of sincerity, and a travailer for Zion`'s redemption, and for the removing of all oppressions from off the souls of them who have believed; Stephen Crisp.
 
+[.salutation]
 Dear Friends,
 
 You know that God in his infinite love has visited us with a very glorious day,
@@ -9911,8 +10067,10 @@ and in this you will have an inheritance with all the sanctified children of lig
 That you all may possess, and none fall short of this,
 is the earnest desire and prayer of your faithful friend in the unchangeable Truth,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === An Epistle from Stephen Crisp, to Friends.
 
 Dearly beloved Friends and brethren in the everlasting fellowship,
@@ -10018,13 +10176,14 @@ and direct you in his heavenly wisdom to do his holy will in your day and genera
 which is the hearty supplication of, your sincere and faithful friend and brother,
 in the kingdom and patience of Christ Jesus,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === A Tender Visitation in the Love of God,
 
-Unto those people called French Protestants,
-wherever they are scattered in this time of tribulation and persecution,
-raised against them by those called Roman Catholics, about matters of religion.
+[.blurb]
+=== Unto those people called French Protestants, wherever they are scattered in this time of tribulation and persecution, raised against them by those called Roman Catholics, about matters of religion.
 
 Friends, in the movings of God`'s love in my heart, I write unto you,
 and my prayer to God is, that he may by his invisible power,
@@ -10169,12 +10328,18 @@ that so the searching,
 inquiring soul may be somewhat helped to find whether any of them
 have the rule and government of his conscience or no.
 
+[.numbered]
 1+++.+++ The first is Education.
 
+[.numbered]
 2+++.+++ Worldly Interest.
 
+[.numbered]
 3+++.+++ The subjecting the conscience to the government of other men,
 and thereby being made liable to their interest and passions.
+
+[.small-break]
+'''
 
 For the first: Education must be considered in a two-fold consideration, good and bad.
 Good education has a great prevalency upon the mind, as to doctrines, principles,
@@ -10216,6 +10381,9 @@ but by their works it is manifest what it is that has the government of such con
 not the sweet spirit of Christ Jesus, but the force of a corrupt education,
 nourished and strengthened by the daily motions of Satan.
 
+[.small-break]
+'''
+
 Another thing that seeks to take the government of some men`'s consciences,
 is worldly interest.
 These are men of no settled, hearty religion,
@@ -10236,6 +10404,9 @@ This is a great abomination in the sight of God,
 and such are oftentimes shut up in darkness, and given over to a reprobate mind,
 because for worldly ends they choose the darkness rather than the light,
 and come to have their portions in it.
+
+[.small-break]
+'''
 
 The third thing is,
 where men give over their consciences to the regulation and government of others.
@@ -10418,24 +10589,20 @@ as knowing it is not the will of God that any should perish;
 but that all men everywhere should repent and come to the knowledge of the Truth,
 and be saved.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.signed-section-context-close]
 Colchester, the 17th of the Eleventh month, 1688.
 
+[.centered]
 === An Epistle of Tender Love and Brotherly Advice,
 
-To all the churches of Christ throughout the world,
-who are gathered into the one living faith, and walk in the light,
-and therein have their fellowship one with another.
+[.blurb]
+=== To all the churches of Christ throughout the world, who are gathered into the one living faith, and walk in the light, and therein have their fellowship one with another.
 
-From a friend and brother in the same fellowship, who has long travailed,
-and still travails for Zion`'s prosperity,
-and for the gathering of Zion`'s children out of Egypt and darkness,
-that they may walk and dwell in the Light of Zion`'s Saviour, which is Christ the Lord.
-Whose outward name is Stephen Crisp.
-
-[.asterism]
-'''
+[.blurb]
+==== From a friend and brother in the same fellowship, who has long travailed, and still travails for Zion`'s prosperity, and for the gathering of Zion`'s children out of Egypt and darkness, that they may walk and dwell in the Light of Zion`'s Saviour, which is Christ the Lord. Whose outward name is Stephen Crisp.
 
 Dearly beloved Friends and brethren,
 gathered out of the world by the eternal arm and power of the mighty God,
@@ -10959,10 +11126,13 @@ Amen.
 From your friend and brother in the communion and
 fellowship of the gospel of peace and purity,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.signed-section-context-close]
 London, the 15th of the Seventh month, 1690.
 
+[.centered]
 === An Epistle Written from Amsterdam.
 
 Dearly beloved Friends, brethren and sisters in the everlasting covenant of life,
@@ -11075,13 +11245,19 @@ in the covenant of an everlasting brotherhood;
 with all who know the generation of the righteous seed, which is but one,
 and has one name, which none knows but he that has it.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.signed-section-context-close]
 Arasterdam the 10th of the Second month, 1663, old style.
 
+[.centered]
 === Letter to J. R.
 
-Friend J. R.,--I am sorry I have the present occasion of writing to you,
+[.salutation]
+Friend J. R.,
+
+I am sorry I have the present occasion of writing to you,
 and would have foreborne, if a necessity had not been upon me for the Truth`'s sake,
 and for yours.
 I have a deep sense of your danger,
@@ -11128,12 +11304,16 @@ I might enlarge, to show the many evil consequences attending this practice,
 but hope by what I have written you will consider the rest,
 and still account me your friend in the Truth.
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.signed-section-context-close]
 The 28th of the Ninth month, 1678.
 
+[.centered]
 === Letter to William Penn
 
+[.salutation]
 Dearly beloved in the Lord,
 
 My soul salutes you in the fellowship of that life that reigns over death and darkness,
@@ -11214,12 +11394,16 @@ I might write long before all were written that lives in my heart towards you;
 but in summa, I love you well, and salute you dearly in that which is unchangeable,
 in which I remain your true friend,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.signed-section-context-close]
 London, the 4th of the Third month, 1684.
 
+[.centered]
 === Letter to J. T.
 
+[.salutation]
 Dear Friend, J. T.
 
 It has been some time in my heart to visit you with a few lines,
@@ -11298,10 +11482,13 @@ be a comfort to you, and will appear lovely to all her friends.
 
 So no more, but my true and unfeigned love to you all: I rest your friend in Truth,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === Letter to a Friend.
 
+[.salutation]
 Dear Friend,
 
 Yours I have received, desiring me to deal faithfully with you as to your state, which,
@@ -11328,12 +11515,16 @@ and that he has given you a heart to wait for more;
 and that this world cannot satisfy you;
 for such will the Lord assuredly satisfy in his own time.
 
+[.signed-section-closing]
 Dear lamb, trust in the Lord, and so farewell,
 
+[.signed-section-signature]
 Stephen Crisp.
 
+[.centered]
 === Letter to a Friend.
 
+[.salutation]
 Dearly Beloved,
 
 In the Lord my soul salutes you, as one who is brought into my remembrance,
@@ -11355,4 +11546,5 @@ Dear heart, feel my love, which is beyond words.
 So, with my dear love to your husband, M, and Anna, etc.
 I rest your true friend,
 
+[.signed-section-signature]
 Stephen Crisp.

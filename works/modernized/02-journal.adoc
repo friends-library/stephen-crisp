@@ -1,4 +1,7 @@
-== Chapter I. A Journal of the Life of Stephen Crisp, Giving an Account of His Convincement, Travels, Labours and Sufferings, In and For the Truth.
+== Chapter I.
+
+[.blurb]
+=== A Journal of the Life of Stephen Crisp, Giving an Account of His Convincement, Travels, Labours and Sufferings, In and For the Truth.
 
 Oh! all you saints, and all you inhabitants of the earth,
 let the name of Jehovah be famous among you, for there is no God like unto him;
@@ -12,9 +15,8 @@ Therefore, well said David,
 "`I will remember the years of the right hand of the Most High;
 I will remember the works of the Lord: surely I will remember his wonders of old.
 I will meditate of all your works, I will talk of your doings.`"
-Psal.
-Ixxvii.
-10, 11, 12. Who can feel his goodness, and partake of his love,
+Psal. 77: 10, 11, 12.
+Who can feel his goodness, and partake of his love,
 but it will constrain a testimony to him?
 In the sweet remembrance of his manifold innumerable mercies, I am even overcome.
 For my whole life has been as a continued series of mercy and goodness,
@@ -139,7 +141,7 @@ In this woeful condition, the thoughts of death would bring a dread over soul an
 and trembling and horror were often upon me,
 fearing that I was set apart for a vessel of wrath,
 and must bear the fiery indignation of God forever.
-And oh, that word, '` for-ever,`' would often be terrible to me,
+And oh, that word, '`forever,`' would often be terrible to me,
 but how to prevent it I knew not.
 
 Now I began to perceive my own insufficiency, and my lack of God`'s power,
@@ -460,7 +462,7 @@ I heard of joy and salvation,
 but could scarcely think that ever I should be a partaker of it,
 I still lacking that living faith, which the apostle said, was of the operation of God,
 who raised up Jesus, the true seed,
-which seed I still felt groaning in meto be delivered from the burden of sin,
+which seed I still felt groaning in me to be delivered from the burden of sin,
 and from the oppression of the carnal mind.
 
 After long travail, strong cries, and many bitter tears and groans,
@@ -1433,7 +1435,7 @@ where the Lord appeared wonderfully to bind and limit the adversary.
 The meetings were very large that day, both before noon and afternoon,
 by reason of country Friends coming there, and abundance that were not Friends:
 and all was quiet and peaceable,
-for which we gave thanks to Godj who we knew was the author of it,
+for which we gave thanks to God, who we knew was the author of it,
 and had set his divine power as a hedge about us for his name`'s sake.
 
 I saw in the light of the Lord, that the Friends there were as soldiers,
@@ -1587,6 +1589,9 @@ and the word of the Lord lived in my heart, to the refreshing my soul,
 and the souls of many tender babes that lived and grew by the milk of it;
 and in this is my fellowship with the living, and my labour, travail and prayer,
 that all may be kept in the feeling of it, for this living word abides forever.
+
+[.small-break]
+'''
 
 +++[+++After this he spent his time mostly in Colchester and London, in the service of Truth,
 and finished his life the 28th day of the sixth month, 1692.]
