@@ -5,7 +5,8 @@ ____
 
 == A Preface
 
-By way of testimony concerning Stephen Crisp, and his following works.
+[.blurb]
+=== By way of testimony concerning Stephen Crisp, and his following works.
 
 Although my intimacy with our deceased friend was but of later years,
 yet I find something in my mind to write concerning him,
@@ -120,7 +121,7 @@ On the twenty-seventh, being the day before his departure, he said,
 "`I hope I am gathering, (as his expression was understood,) I hope,
 I hope;`" being then scarcely able to speak out his words.
 George Whitehead near parting from him asked him, "`Dear Stephen,
-wouldst thou anything to Friends`'!`" After some pause, Stephen Crisp gave his answer,
+wouldst thou anything to Friends?`" After some pause, Stephen Crisp gave his answer,
 viz. "`Remember my dear love in Jesus Christ to all Friends.`"
 
 On the twenty-eighth of the said month, he departed this life,
@@ -208,8 +209,11 @@ So with the words of our Lord Jesus, the Way and Truth, I may conclude, viz.:
 and we will come unto him, and make our abode with him.`"
 And in that love I desire always to remain, Courteous reader.
 
+[.signed-section-closing]
 Thy sincere friend and well-wisher,
 
+[.signed-section-signature]
 John Field.
 
+[.signed-section-context-close]
 George-Yard, London, the 14th of the Third month, 1694.
