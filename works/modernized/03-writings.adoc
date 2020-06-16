@@ -423,9 +423,10 @@ These qualifications do belong to such men as you profess yourselves to be,
 which I shall set down, and then let all sober people judge,
 whether you he reprobate unto them, yes or no.
 
-[.small-break]
-'''
+[.numbered-group]
+====
 
+[.numbered]
 I+++.+++ They ought to be blameless, and whether you are so or not, be your own judges,
 who say, none can live without sin, and so consequently not without blame,
 for all sin is blameable; so in this particular you have excluded yourselves.
@@ -480,9 +481,7 @@ a body fit for destruction together,
 which the Lord is appearing against in his mighty power, to cut off head and tail,
 root and branch together.
 
-[.small-break]
-'''
-
+[.numbered]
 2+++.+++ The doctrines of your church also are reprovable and corrupt in many things,
 contrary to the scriptures.
 And first in your doctrines of God, who you say is to be known and believed on,
@@ -503,8 +502,7 @@ which the apostle that gave forth the Scripture doth not give them.
 And because we do not call the Father, and the Word, and Holy Ghost, by your new names,
 therefore do you falsely say that the Quakers deny Father, Son and Holy Ghost,
 which we own in those names and sound words in which the
-holy men of God spoke them forth by the Holy Ghost,
-etc.`"]
+holy men of God spoke them forth by the Holy Ghost, etc.`"]
 Herein you teach contrary to the scriptures of Truth, which you say is your rule,
 and by it are all such dreamers and deceivers judged,
 and by the spirit which gave them forth,
@@ -527,9 +525,7 @@ and of his power by which you were created,
 and of his spirit by which he quickens into newness of life, all those who fear him,
 and wait for his salvation, which now by the light is making manifest.
 
-[.small-break]
-'''
-
+[.numbered]
 3+++.+++ Your doctrine concerning the Word of God, is altogether reprovable,
 who teach people to believe,
 that that is the Word of God that can be bought and sold for money,
@@ -584,9 +580,7 @@ that the Word in the heart you may know, which lives and abides forever,
 when that by it is destroyed, which cannot abide forever, which is your sin,
 which hitherto has separated you from the knowledge of God and of his powerful Word.
 
-[.small-break]
-'''
-
+[.numbered]
 4+++.+++ Your doctrine of faith is reprovable,
 and you in it found contrary to the true ministers of Christ.
 You preach that faith cannot be without sin;
@@ -637,9 +631,7 @@ so also will it happen unto you.
 So long as you abide in that belief, you shall abide servants of sin,
 and so free from righteousness.
 
-[.small-break]
-'''
-
+[.numbered]
 5+++.+++ Concerning Election.
 Herein have you erred exceedingly from the Truth,
 and with the Truth ought you to be reproved and judged,
@@ -693,6 +685,8 @@ Then you shall know, that the way of salvation was set open to you,
 in that the light shined in your hearts; but you rejecting that way,
 and seeking to establish a way of your own; so you became excluded,
 and shut out of the kingdom after long talking of it.
+
+====
 
 Therefore all you people of Scotland, and to whomsoever this shall come,
 of what people or country soever you are, consider in the fear of God,
@@ -754,12 +748,12 @@ and what else is preached among you, will be seen with the light, by them that l
 to which I commend them in whom is sincerity of heart,
 and shall proceed a little further to your ordinances.
 
-[.small-break]
-'''
+[.numbered-group]
+====
 
+[.numbered]
 1+++.+++ And first concerning that rotten tradition which you call an ordinance or baptism,
-namely,
-your casting a few drops of water upon the face of an infant about eight days old.
+namely, your casting a few drops of water upon the face of an infant about eight days old.
 This you call an ordinance,
 but could never yet find out the institution thereof by Christ or his disciples,
 for any sign or signification whatsoever;
@@ -826,9 +820,7 @@ which he is now gathering from under all the shadows,
 and also from among all the inventions of men, to serve him in meekness and fear,
 in that worship which is inward in the spirit and in the truth.
 
-[.small-break]
-'''
-
+[.numbered]
 2+++.+++ The next thing is your imitable custom of eating and drinking bread and wine,
 which you call a sacrament of the Lord`'s supper.
 In this imitation stands much of your dark fellowship and communion;
@@ -920,9 +912,7 @@ and come to the light which lets people see over them all, to the one baptism it
 and to the supper, (and table of the Lord,) itself, and to the church itself,
 which is in God the Father of our Lord Jesus Christ, as you may read. 1 Thess. 1:2.
 
-[.small-break]
-'''
-
+[.numbered]
 3+++.+++ And lastly, the discipline of your church,
 does appear contrary to the discipline of the true church;
 and in this particular you have so far proceeded already, within these few years,
@@ -1018,6 +1008,8 @@ set forth to every judicious reader,
 against the life of the scriptures, and whomsoever is come into it.
 But your Cainish spirit is seen, and your end is at hand,
 and your reward shall be according to your works.
+
+====
 
 And now all you people of Scotland, in whom is sincerity and simplicity,
 unto whom this shall come, consider in the fear of the Lord, where you are,
@@ -1381,6 +1373,9 @@ and leaves will not defend it from the curse and blasting.
 The three especial fruits that did spring forth from this blessed root,
 and were and are to continue and increase in us and among us, to the end, are these.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ Purity, manifested in a godly conduct.
 
@@ -1393,6 +1388,8 @@ manifested in bearing a constant and faithful testimony
 to the things we had received and believed,
 though it were unto great loss and sufferings.
 
+====
+
 And against all these, does the wicked one appear,
 to see if he can make you barren concerning them,
 and that with various wiles and subtleties, that he may prevail on you,
@@ -1404,19 +1401,18 @@ to wait in the sense and true feeling of that Seed that never fell nor was begui
 and you will, (even the least of you,) see and comprehend his workings and transformings,
 and be delivered from them.
 
-[.small-break]
-'''
+[.numbered-group]
+====
 
+[.numbered]
 1+++.+++ Purity and holiness was a fruit in you, which does yet flourish in many,
 (blessed be the Lord,) who are as watchful and careful to approve
-themselves in obedience to the light of Truth in their inward parts,
-as ever,
+themselves in obedience to the light of Truth in their inward parts, as ever,
 and find as great a necessity both of trying and judging with its judgment as ever.
 These having thus waited, have renewed their strength unto this very day,
 and do mount upward on wings as eagles; these are neither weary in running,
 nor faint they in their walking.
-But alas!
-Friends,
+But alas! Friends,
 even these do know with how great and manifold assaults they have been assaulted,
 and know and see with sorrow of heart, how the assault has prevailed upon some,
 by working into the mind a secret liberty and supposed enlargedness,
@@ -1472,9 +1468,7 @@ which none can do,
 but by persisting and continuing in the daily sanctification of the spirit,
 and belief and obedience of the Truth.
 
-[.small-break]
-'''
-
+[.numbered]
 2+++.+++ A second fruit that was brought forth from this good root,
 was unity and love one towards another; which, blessed be the Lord,
 is preciously preserved in and among many to this very day;
@@ -1537,8 +1531,7 @@ He has not sought occasions against you, but has long borne and suffered,
 and exercised much patience and tenderness towards you;
 yet plainly reproving the evil in you, and not treasuring it up against you.
 
-Oh!
-Friends, be like-minded one towards another,
+Oh! Friends, be like-minded one towards another,
 that the enemy of your peace and concord may be defeated,
 and you preserved entire to one head, even to Christ Jesus; that you may be one,
 and the name of the Lord may be one among you;
@@ -1585,9 +1578,7 @@ and if you are in it, you will see them, and that will preserve you; for it is o
 and did make us one, and will keep us to be of one heart and mind to the end,
 if we abide in it.
 
-[.small-break]
-'''
-
+[.numbered]
 3+++.+++ The third good effect which Truth did work in
 the beginning in them who did truly receive it,
 was zeal and faithfulness to God, in bearing testimony to what was manifest,
@@ -1613,6 +1604,8 @@ and all that have gone backwards, be warned to return to their first love;
 else the Lord will come against them,
 and the day hastens that will divide such their portion among hypocrites,
 except they repent.
+
+====
 
 But to touch at some of the reasons or arguments,
 which he that abode not in the Truth himself,
@@ -1663,8 +1656,7 @@ are all as so many instruments of Satan to seduce you, and lead you into darknes
 that you may not see so great necessity in your bearing up your testimony,
 nor so great a danger in the contrary as indeed there is.
 
-Oh!
-Friends, at such a time as this, where is there any help but in the Lord?
+Oh! Friends, at such a time as this, where is there any help but in the Lord?
 Where can you find a Saviour,
 but in that light which gives to distinguish the several voices?
 It is good for you to remember, that if you walk after the flesh,
@@ -1707,8 +1699,7 @@ One more subtle snare of the enemy in this matter is in my heart to mention,
 that is this:
 to persuade you for once to do that which the light has made manifest you should not,
 with a purpose afterwards to be more faithful.
-Oh!
-Friends, in the name and fear of the Lord,
+Oh! Friends, in the name and fear of the Lord,
 I exhort and warn you all to take heed of this,
 for this will prove but a false confidence.
 You will find this kind of going out of the guidance of Truth,
@@ -3540,9 +3531,10 @@ and should be offended at his coming in one appearance, whom you may look for in
 as the Jews of old were.
 Therefore in the fear of the Lord consider these following things.
 
-[.small-break]
-'''
+[.numbered-group]
+====
 
+[.numbered]
 1+++.+++ Consider what it is that must be destroyed in
 this day of the Lord that comes to visit your nations;
 it is the works of the devil, who is the author of sin, and his work is not destroyed,
@@ -3570,9 +3562,7 @@ which the prophet said should be many, in his great and notable day; and fear no
 for he that kills you to what is old,
 shall raise you up in the new life of righteousness that never waxes old.
 
-[.small-break]
-'''
-
+[.numbered]
 2+++.+++ Consider what it is that must be set up in this
 day of the Lord that is visiting the nations;
 it is righteousness and truth which have long fallen in the streets,
@@ -3603,6 +3593,7 @@ and the borders of the possession of the wicked one shall be daily lessened,
 and the Seed of God shall possess the gates of his enemies,
 according to his promise of old made by his holy prophets.
 
+[.numbered]
 And now Friends in the third place,
 consider the place where this alteration is to be wrought,
 where the kingdom of the man of sin is to be destroyed,
@@ -3616,6 +3607,8 @@ which is the light of Jesus Christ in your consciences, wherewith Christ Jesus,
 the free gift of the Father, has enlightened every one that comes into the world;
 which light does discover to the soul,
 when the dark power does begin to stir and operate, to lead into evil.
+
+====
 
 Those that love the light better than their lusts,
 come to take up the cross to the lust whatsoever it be;
@@ -4638,6 +4631,9 @@ notwithstanding they do profess him to be pure to whom they offer.
 Thus was this first sacrificer blind and darkened, and so are many thousands after him,
 and the dominion of the devil was over him.
 
+[.numbered-group]
+====
+
 [.numbered]
 _First,_ Deceiving him by leading him to expect an acceptance, because he offered,
 though with an evil heart.
@@ -4649,6 +4645,8 @@ _Secondly,_ To lead him into the evil which had kept him from acceptance.
 _Thirdly,_ By making him wroth and angry,
 (because he was not accepted,) against his brother that did well,
 and was partaker of the one sure faith of the elect seed of God.
+
+====
 
 The serpent having thus darkened his mind, then he dared come before him with a lie,
 (though he was a man,
@@ -4753,16 +4751,12 @@ a heaven where God and the holy angels dwell forever.
 [.offset]
 Now let us examine a little what reason there is for this great mistake.
 
-[.numbered]
+[.discourse-part]
 _First,_ they say, that sin is rooted and planted in the nature of man; yes,
 so that a man must cease to be a man, before he can cease from being a sinner.
 
-[.small-break]
-'''
-
-[.no-indent]
-_Answer._
-That man in his natural state is so united with sin,
+[.discourse-part]
+_Answer._ That man in his natural state is so united with sin,
 as that he thereby is separated from God, I do not deny;
 and also that there is a natural inclination in man to commit sin, is also true; that is,
 as long as they remain in their natural state and condition.
@@ -4869,17 +4863,13 @@ You cannot bring forth a clean sacrifice, out of an unclean vessel;
 and as long as nature is defiled,
 the works will be unclean that are wrought in that nature.
 
-[.numbered]
+[.discourse-part]
 _Secondly,_ The second pleading is, that never any man was freed from sin,
 since sin first entered into the world;
 and that therefore it is presumption to expect such a thing in this life.
 
-[.small-break]
-'''
-
-[.no-indent]
-_Answer._
-If this position were true, that there was never any man freed from sin,
+[.discourse-part]
+_Answer._ If this position were true, that there was never any man freed from sin,
 yet it would be presumption to say,
 that God should not be able to do that which he never did;
 and it is also presumption to conclude, that never any man was freed.
@@ -4990,17 +4980,14 @@ and therefore cannot be made free from sin, they will exclude themselves,
 which they will hardly do, because they would eagerly have a name of being believers,
 though they deny the works of true faith in themselves.
 
-[.offset]
+[.discourse-part]
 Further,
 let us consider with what these strong pleaders for sin have to fortify themselves.
 They say, they have the scripture to plead for sin,
 which certainly was never the intention of the Holy Spirit, by which it was given forth.
 But, say they, it is written in 1 Kings 8:46, For there is no man that sins not.
 
-[.small-break]
-'''
-
-[no-indent]
+[.discourse-part]
 _Answer._
 This is very true,
 neither do I plead that any man is free from sin all the days of his life,
@@ -5022,15 +5009,12 @@ that they will rather deny the better hope, than to cease from sin?
 If not, then there is a possibility to be made perfect by the blood of Christ,
 which the blood of bulls and goats could not do.
 
-[.offset]
+[.discourse-part]
 Another objection is brought forth, that is, that the apostle Paul said,
 that sin lived in him, and that the good that he would do he did not;
 and the evil that he would not do, that he did.
 
-[.small-break]
-'''
-
-[.no-indent]
+[.discourse-part]
 _Answer._ That Paul knew the passing through such a state, is without a question,
 and is not denied.
 But this does not prove at all that he never knew a belter state;
@@ -5147,10 +5131,7 @@ Yet some will say, that the apostle in that place uses the word we,
 as if he included himself; as if he would say at that time, if I should say,
 that I had no sin, etc.
 
-[.small-break]
-'''
-
-[.no-indent]
+[.discourse-part]
 _Answer._
 This is no proof at all, because the contrary is proved before, namely,
 that he had fellowship with God and Christ; which no man could have,
@@ -5192,14 +5173,11 @@ contrary to Rom.
 vi, 22, I make haste to the third great argument of these captives,
 which they lay down against their own freedom.
 
-[.offset]
+[.discourse-part]
 Thirdly, That is, that it is the will of God,
 to let some sins remain in the best of his people, to keep them humble thereby.
 
-[.small-break]
-'''
-
-[.no-indent]
+[.discourse-part]
 _Answer._ If it be the will of God, that his best servants should sin,
 then his will is done when they sin.
 And what reason have any men to be humbled and cast down,
@@ -5976,6 +5954,9 @@ and those that come to a perfect state, know that their salvation is not of thei
 how good and pure soever they may be, but merely by grace through Jesus Christ,
 and that in respect of these three following observations.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ First, That it was the appearance of Christ Jesus, who is the power of God,
 that brought them off from their sin and imperfection;
@@ -6006,7 +5987,7 @@ So here you may see, that the bringing to the state of perfection,
 and the keeping from falling from it again, are both the work of Christ; and yet,
 this is not a perfect salvation; for this does not put away the former sins.
 
-[.no-indent]
+[.numbered]
 3+++.+++ But Thirdly, Whoever comes to perfect salvation,
 he comes to know Christ to be an offering for sin, and to obtain reconciliation with God,
 and forgiveness of his former sins.
@@ -6024,6 +6005,8 @@ neither does he believe that he can do it;
 and by this we know the true believers from the false;
 and by this sinners are made manifest,
 that cannot stand in the congregation of the righteous, Ps. 1:5.
+
+====
 
 So now let all the pleaders for sin, stop their mouths forever,
 and let the devil stand for himself, and plead his own cause;
@@ -7510,12 +7493,15 @@ that the just principle in all consciences may be reached unto, unto which I do 
 They shall testify in the day of judgment in the face of all the rebellious,
 that they were warned, and that they rejected counsel.
 
+[.numbered-group]
+====
+
+[.numbered]
 First, consider the great hypocrisy that is in this land, which is a crying sin,
 and provokes the Lord to anger.
 How is the simplicity of your forefathers lost?
 Where is that zeal and fervency that appeared for reformation a hundred years since?
-no,
-is it not become a crime for any man to seek a further reformation
+no, is it not become a crime for any man to seek a further reformation
 than that which is stinted and limited by men of corrupt minds?
 _Steets genegen tot alle boosheit, alle de gebooden godts brekende.
 Belid. 5. Dort. 61. Art._
@@ -7845,6 +7831,8 @@ because a magistrate does command it,
 but both must be subject to the supreme power of God, if they will be happy,
 for that is the around of happiness.
 
+====
+
 This power as it is in God is incomprehensible and without limit or end;
 but as it is manifest in the sons and daughters of men,
 it is the pale and limit that stands between all good and evil actions;
@@ -8018,6 +8006,9 @@ Therefore, that I may clear my conscience in God`'s sight,
 and answer the tender operations of love, which I feel in my heart towards you,
 let me exhort you to faithfulness to the love of God so manifest unto you.
 
+[.numbered-group]
+====
+
 [.numbered]
 _First,_ I say with the prophet, despise not the day of small things,
 nor the branch that springs out of a dry ground;
@@ -8144,6 +8135,8 @@ but to establish justice and righteousness, and take away oppression and violenc
 the hard heart, that his name may be feared and dreaded on the earth by the sons of men,
 and his power over all may have dominion.
 
+====
+
 Thus, dear friend,
 have I in simplicity and uprightness discharged what
 lay upon me in great plainness and openness of heart,
@@ -8214,6 +8207,9 @@ for the comfort and example of them that follow after.
 Also choose out one of each particular meeting, and lay it upon them in the Lord,
 to take care in their respective meetings on your behalf:
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ That no women, young or old, in their respective meetings,
 walk disorderly or wantonly, but that they be admonished and counselled speedily.
@@ -8244,6 +8240,8 @@ nor carry evil in their minds one against another; nor bear tales about,
 to beget others into evil, and into partyship,
 but that all such things may be speedily suppressed
 and borne down in the power and judgment of God.
+
+====
 
 And let that woman-Friend give account to the meeting,
 of such as will not receive admonition,
@@ -8353,6 +8351,9 @@ by which he may know how far any of these things have prevailed upon him;
 and he that judges,
 will also by judgment deliver them that are caught in Satan`'s snares,
 if they do hearken and submit to his leadings.
+
+[.numbered-group]
+====
 
 [.numbered]
 _1st._ Take heed, my dear Friends, of holding the Truth in a bare formality,
@@ -8481,8 +8482,7 @@ However, I am thus far clear of their blood, and if they perish,
 the fault will be their own.
 
 [.numbered]
-_2ndly._
-A second thing that lies upon me to warn you all of, my dear Friends,
+_2ndly._ A second thing that lies upon me to warn you all of, my dear Friends,
 is to watch against the spirit of this world, lest it drink up your spirits too much,
 in an eager and greedy pursuit after the things of this world,
 which happens to several in various manners to their great hurt and damage;
@@ -8536,8 +8536,7 @@ the Lord of earth as well as heaven, the ruler of your trading and dealings,
 as well as of your religion and profession.
 
 [.numbered]
-_3rdly._
-Friends, I desire you to remember, that the crown of our profession was,
+_3rdly._ Friends, I desire you to remember, that the crown of our profession was,
 that our yes was yes, and our no was no,
 and so it is still with all the faithful followers of the Truth;
 though too many have let in a false liberty since their first convincement,
@@ -8609,8 +8608,7 @@ as from one that travails for your prosperity,
 and warns you of the snares of your soul`'s enemy.
 
 [.numbered]
-_4thly._
-Friends, the next thing that lies upon me,
+_4thly._ Friends, the next thing that lies upon me,
 is in respect unto such as have been brought up and educated among us,
 and are grown up,
 and do make profession of the same way and truth in which they have been educated;
@@ -8707,8 +8705,7 @@ Then shall you stand and remain, and be a generation chosen of God,
 to bear his name and testimony, and to commit it to the next generation.
 
 [.numbered]
-_5thly._
-Friends, let the brotherly love that was sown in your hearts,
+_5thly._ Friends, let the brotherly love that was sown in your hearts,
 as a precious seed in your first convincement, continue and increase daily,
 that as you are made partakers of one hope of salvation in Christ Jesus,
 so you may continue of one mind and heart, according to the working of his Spirit in you.
@@ -8724,6 +8721,8 @@ Therefore, my Friends and brethren,
 let the fruits of sincere and brotherly love abound among you both in word and deed,
 and let none be lacking in fulfilling the law of charity,
 without which all profession will be but like sounding brass, or a tinkling cymbal.
+
+====
 
 But if this law be kept to, the life of religion will be felt,
 and each one will thereby be taught his duty and charge concerning another,
@@ -9134,23 +9133,25 @@ Have you not played the foolish woman, that pulled down her house with her own h
 But as if you had herein spoken too much truth,
 you seek to bury it again with three or four palpable lies in the next page.
 
-[.discourse-part]
+[.numbered-group]
+====
+
+[.numbered]
 _First,_ "`G. F. seemingly disowns the paper, yet owns it too.`"
 
-[.discourse-part]
+[.numbered]
 _Secondly,_ "`The whole scope of their letter is,
 that they are only dissatisfied with the wording of it.`"
 
-[.discourse-part]
+[.numbered]
 _Thirdly,_ "`That we have nothing against them we call opposers,
 but their not submitting to G. F.`'s orders without conviction.`"
 
-[.discourse-part]
+[.numbered]
 _Fourthly,_ "`That G, F. etc. does not at all contradict the principles in the paper,
 only the subscribing of it,`" p. 13.
 
-[.small-break]
-'''
+====
 
 Is not this strange work, that you should set your name to such notorious untruths,
 and things wherein you yourself show everybody how to contradict you too.
@@ -10328,6 +10329,9 @@ that so the searching,
 inquiring soul may be somewhat helped to find whether any of them
 have the rule and government of his conscience or no.
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ The first is Education.
 
@@ -10338,9 +10342,12 @@ have the rule and government of his conscience or no.
 3+++.+++ The subjecting the conscience to the government of other men,
 and thereby being made liable to their interest and passions.
 
-[.small-break]
-'''
+====
 
+[.numbered-group]
+====
+
+[.numbered]
 For the first: Education must be considered in a two-fold consideration, good and bad.
 Good education has a great prevalency upon the mind, as to doctrines, principles,
 and forms and modes of worship; but it does not alone convey from the tutor to the pupil,
@@ -10381,9 +10388,7 @@ but by their works it is manifest what it is that has the government of such con
 not the sweet spirit of Christ Jesus, but the force of a corrupt education,
 nourished and strengthened by the daily motions of Satan.
 
-[.small-break]
-'''
-
+[.numbered]
 Another thing that seeks to take the government of some men`'s consciences,
 is worldly interest.
 These are men of no settled, hearty religion,
@@ -10405,9 +10410,7 @@ and such are oftentimes shut up in darkness, and given over to a reprobate mind,
 because for worldly ends they choose the darkness rather than the light,
 and come to have their portions in it.
 
-[.small-break]
-'''
-
+[.numbered]
 The third thing is,
 where men give over their consciences to the regulation and government of others.
 These may be said to be men without the exercise of their conscience,
@@ -10443,6 +10446,8 @@ as to imagine that such can absolve them of their sin,
 who cannot keep out of it themselves, but are overcome by the temptations of Satan,
 and by their own lusts and concupiscence, and must have another to absolve them,
 and another again for him, and so forth?
+
+====
 
 Ah, where is the pure light of Christ in the conscience all this while,
 that should guide and rule the conscience of the one and the other,
