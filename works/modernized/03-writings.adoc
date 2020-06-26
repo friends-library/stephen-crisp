@@ -4144,10 +4144,14 @@ life and patience of the Lamb and holy seed.
 Stephen Crisp.
 
 [.postscript]
+====
+
 Let copies of this be carefully written and sent forth among
 Friends in the East and North Ridings of Yorkshire,
 to be read in the sensible feeling life of the holy and beloved Seed of blessing,
 when Friends, in it are met together.
+
+====
 
 [.centered]
 === John Furly`'s translations of two of Stephen Crisp`'s Epistles, in Dutch, to Friends at Amsterdam.
@@ -4211,8 +4215,12 @@ and a lover of your souls, and a servant of the everlasting gospel of God,
 Stephen Crisp
 
 [.postscript]
+====
+
 Friends, keep your meetings in the name of the Lord with diligence,
 and let this be read among you in your assemblies.
+
+====
 
 [.salutation]
 Friends,
@@ -4259,7 +4267,11 @@ Stephen Crisp
 London, 6th of the Twelfth month, 1667.
 
 [.postscript]
+====
+
 Let this be read in your assemblies, when you are met in the name and fear of the Lord.
+
+====
 
 [.centered]
 === An Epistle from Stephen Crisp to Friends,
@@ -5800,8 +5812,7 @@ and to the everlasting God,
 by the operation of the Holy Spirit in the hearts of the redeemed,
 be sung everlasting praises, thanksgiving, renown, honour, glory, and dominion forever.
 
-[.offset]
-Postscript.
+==== Postscript.
 
 Something further comes up in my heart concerning this matter,
 which I think good to communicate unto you.
