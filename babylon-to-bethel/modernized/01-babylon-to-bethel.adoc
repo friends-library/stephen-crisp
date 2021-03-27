@@ -1,4 +1,4 @@
-[#ch1, short="Babylon to Bethel"]
+[short="Babylon to Bethel"]
 == A Short History of a Long Travel from Babylon to Bethel
 
 [.chapter-subtitle--blurb]
