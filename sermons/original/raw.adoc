@@ -34,7 +34,7 @@ agreeable to the subject-matter chiefly treated of therein.
 
 London, March, 1694.
 
-=== Sermon I. The Great Mediator of the Everlasting Covenant.
+== Sermon I. The Great Mediator of the Everlasting Covenant.
 
 Preached at Grace-Church-Street, April 25, 1688.
 
@@ -513,7 +513,7 @@ and exalted above all blessings and praises.
 To him be glory, who is God over all, blessed forever and ever.
 Amen.
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Most glorious God of life and power, and of everlasting kindness;
 a God of long-suffering and patience, else we had not been here at this day.
@@ -579,7 +579,7 @@ mayest receive for all thy mercies, and blessings to thy children, praises, glor
 and thanksgiving; for thou alone art worthy, who art God over all, blessed forever.
 Amen.
 
-=== Sermon II. Heart Preparation for Receiving the Gospel.
+== Sermon II. Heart Preparation for Receiving the Gospel.
 
 Preached at Devonshire-House, Feb.
 12, 1687.
@@ -698,7 +698,7 @@ and bring them to a reconciled state, through the Lord Jesus Christ,
 whereby they may partake of the divine virtues,
 which sanctify and justify the soul in the sight of God.
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Most glorious and powerful Father! thy arm of power is made bare in this our day,
 to bring salvation to the poor.
@@ -779,7 +779,7 @@ and may return thee the honor, glory, and praise of all thy love, and mercy, and
 for thou alone art worthy, who art God over all, blessed forever and ever.
 Amen.
 
-=== Sermon III.
+== Sermon III.
 The First and Great Commandment.
 
 Preached at Devonshire-House, May 27, 1688.
@@ -1580,7 +1580,7 @@ he will support and preserve you in all your trials and sufferings,
 that you may be vessels of honor, to bear his name in the earth,
 and so sound forth his praise to the following generations.
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Most glorious, infinite, Powerful Father! who hast created us,
 and given us life and breath, and lengthened out our time to this day,
@@ -1630,7 +1630,7 @@ in whom thou art well pleased, be all honour, praise and dominion rendered by us
 and all the people, from henceforth, and forever.
 Amen.
 
-=== Sermon IV. The Standard of Truth.
+== Sermon IV. The Standard of Truth.
 
 Preached at Grace-Church-Street, May 29, 1692.
 
@@ -1987,7 +1987,7 @@ and "`harden not your hearts,`" and receive that heavenly counsel,
 that is tendered to you, that you may be "`partakers of the inheritance,
 among the saints in light.`"
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Blessed and eternal Father! thou hast brought forth thy glorious name,
 and revealed thy power and thy mighty arm;
@@ -2044,7 +2044,7 @@ that thou mayest have the glory of all thy mercies and blessings, vouchsafed to 
 For thou alone art worthy, who art God over all, blessed forever, and ever.
 Amen.
 
-=== Sermon V. The Great Duty of Remembering Our Creator.
+== Sermon V. The Great Duty of Remembering Our Creator.
 
 Preached at Devonshire-House, April 6, 1692.
 
@@ -2496,7 +2496,7 @@ and bring us into that new and living way, which he hath consecrated for us,
 through the veil, that is to say, his flesh; to whom be glory, forever and ever.
 Amen.
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Most blessed and glorious Father, and Fountain of Life,
 and of all living Blessings! whose glorious day dawneth;
@@ -2573,7 +2573,7 @@ that we have received at thy hands, for thou alone art worthy, and God over all,
 blessed forever and ever.
 Amen.
 
-=== Sermon VI. The Divine Monitor; or, Light From Heaven.
+== Sermon VI. The Divine Monitor; or, Light From Heaven.
 
 Preached at Grace-Church-Street, June 19, 1692.
 
@@ -3017,7 +3017,7 @@ and acknowledge that it is a great privilege that we may obtain by Jesus Christ,
 even to be brought again to have the knowledge of the living God,
 which we lost by our transgression.
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Glorious art thou in thy appearance, O Lord! and very wonderful is thy power,
 and thy ways past finding out: And in this thy glorious day,
@@ -3099,7 +3099,7 @@ All which we desire to offer thee through Jesus Christ, who art God over all,
 blessed forever and ever.
 Amen.
 
-=== Sermon VII.
+== Sermon VII.
 The Inward Preacher; or, The Office of Conscience.
 
 Preached at Grace-Church-Street, June 21, 1692.
@@ -3477,7 +3477,7 @@ If truth guide thee in thy way, then thou shalt rejoice with the saints,
 and receive an inheritance with the people of God,
 and enjoy that glory and felicity which God hath prepared for them that love him.
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Everlasting, glorious, eternal God of Life! whose kingdom ruleth over all;
 thy kingdom is an everlasting kingdom; a glorious, blessed day hath dawned,
@@ -3524,7 +3524,7 @@ And let all thy children everywhere, render to thy name, through Jesus Christ, b
 and honour, and praise; who art God over all, blessed forever and ever.
 Amen.
 
-=== Sermon VIII.
+== Sermon VIII.
 Saving Faith, the Gift of God Alone.
 
 Preached at Grace-Church-Street, March 8, 1687.
@@ -3782,7 +3782,7 @@ and "`perfecting holiness in the fear of God,`" you will hereby bring glory to G
 who alone is worthy of all praise; who is God over all, blessed forever more.
 Amen.
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Most blessed, holy,
 and unchangeable Lord God! thou hast visited us by
@@ -3830,7 +3830,7 @@ for thou alone art worthy of all blessing and praise, who art God over all,
 blessed forever.
 Amen.
 
-=== Sermon IX. Truth`'s Testimony Against the Power of Sin and Satan.
+== Sermon IX. Truth`'s Testimony Against the Power of Sin and Satan.
 
 Preached at Grace-Church-Street, June 3, 1688.
 
@@ -4025,7 +4025,7 @@ for preserving you in humility of mind and soul; and my prayer for you shall be,
 that you may go on, and make a progress in the good ways of the Lord,
 until his work be finished in you.
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Holy and powerful God of Life! who art the Creator of us all; in whom we live, and move,
 and have our being; thou hast made us all for the purpose of thy praise and glory,
@@ -4077,7 +4077,7 @@ the living God of Life, we desire to offer up our praises and adorations,
 for thou alone art worthy; who art God over all, blessed forever and ever.
 Amen.
 
-=== Sermon X. Bearing the Cross of Christ, the True Mark of a Christian.
+== Sermon X. Bearing the Cross of Christ, the True Mark of a Christian.
 
 Preached at Devonshire-House, October 12, 1690.
 
@@ -4637,7 +4637,7 @@ light`" of the sun of righteousness wherein you live,
 and which will shine to his immortal glory and praise,
 and the everlasting comfort of your immortal souls.
 
-=== Sermon XI. The Spirit of Christ the Only True Guide.
+== Sermon XI. The Spirit of Christ the Only True Guide.
 
 Preached at Grace-Church-Street, October 10, 1690.
 
@@ -5083,7 +5083,7 @@ which will nourish you to life everlasting, and that you may shew forth to the w
 the glory, brightness, and excellency of that holy life,
 which in Christ Jesus is manifested to you.
 
-=== Sermon XII.
+== Sermon XII.
 Pure and Spiritual Worship.
 
 Preached at Devonshire-House, November 12, 1690.
@@ -5433,7 +5433,7 @@ and worship God as he hath ordained and appointed himself to be worshipped,
 they must come to the principle of light and grace in their own hearts,
 which they have in, and through Christ, and they will find acceptance with God.
 
-=== Sermon XIII.
+== Sermon XIII.
 The Divine Life of Christ Jesus.
 
 Preached at Grace-Church-Street, March 16, 1691.
@@ -5753,7 +5753,7 @@ and if you retire more into this heavenly and divine life of Jesus,
 you will feel and enjoy more peace and satisfaction, and true consolation in your souls,
 than I, or any man in the world can tell you of.
 
-=== Sermon XIV.
+== Sermon XIV.
 The Kingdom of God Within.
 
 Preached at Grace-Church-Street, July 26, 1691.
@@ -6074,7 +6074,7 @@ may be rendered to him who alone is worthy, who is God over all, blessed forever
 to whom be glory and dominion forever, and ever.
 Amen.
 
-=== Sermon XV. The Undefiled Way to Eternal Rest.
+== Sermon XV. The Undefiled Way to Eternal Rest.
 
 Preached at Devonshire-House, July 29, 1691.
 
@@ -6417,7 +6417,7 @@ and keeping a holy frame of mind in your heavenly travel, in the undefiled way,
 that will at last bring you to the undefiled everlasting
 rest that remains to the people of God.
 
-=== Sermon XVI.
+== Sermon XVI.
 The Dawning of the Day of Grace and Salvation.
 
 Preached at Grace-Church-Street, August 2, 1691.
@@ -6822,7 +6822,7 @@ the Mediator, to him I do commit you,
 not doubting but that he that hath begun a good work in you,
 will at last complete and finish it to his own praise and your salvation.
 
-=== Sermon XVII.
+== Sermon XVII.
 The Excellency of Peace with God.
 
 Preached at Devonshire-House, August 5, 1691.
@@ -7235,7 +7235,7 @@ Then we shall have cause to bless the Lord,
 and praise and magnify his great name for his patience, long-suffering and mercy,
 which at this day he hath lengthened out, and graciously extended to us.
 
-=== Sermon XVIII.
+== Sermon XVIII.
 True Christianity.
 
 Preached at Grace-Church-Street, April 10, 1692.
@@ -7578,7 +7578,7 @@ and prepares you to be a peculiar people to himself.
 The word of his grace I commit to you all, take heed of doing anything contrary to it;
 if you do, that which would be your comfort, will be your condemnation.
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Blessed God, and Father of Life! thou art glorious in holiness, infinite in power,
 the eternal God; thy dominion is an everlasting dominion, thy kingdom is without end.
@@ -7649,7 +7649,7 @@ in and through the Lord Jesus Christ; for thou art worthy of all praise, and glo
 and dominion, forever, and ever.
 Amen.
 
-=== Sermon XIX.
+== Sermon XIX.
 The Mighty Work of Man`'s Redemption.
 
 Preached at Grace-Church-Street, Feb.
@@ -8124,7 +8124,7 @@ to have regard to the working of the same power,
 that you may come to partake of the benefit of those gifts
 and graces which God hath bestowed upon his church.
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Most blessed and glorious God and Father of Life! how wonderful
 art thou in thy appearances to thy people in the day of thy power,
@@ -8173,7 +8173,7 @@ that living praises and thanksgivings may be offered up to thee, through Jesus C
 for thou alone art worthy, who art God over all, blessed forevermore.
 Amen.
 
-=== Sermon XX. The Word of God, a Christian`'s Life.
+== Sermon XX. The Word of God, a Christian`'s Life.
 
 Preached at Grace-Church-Street, March 14, 1687.
 
@@ -8626,7 +8626,7 @@ he that never sinned is with you, to keep you from sin; and he that never deceiv
 will keep you from being deceived.
 To his counsel and conduct, and to his divine care and protection, I now commit you.
 
-=== Sermon XXI.
+== Sermon XXI.
 The Necessity of a Holy Life and Conversation.
 
 Preached at St. Martin`'s-Le-Grand, March 26, 1687.
@@ -9175,7 +9175,7 @@ may through the eternal Spirit, offer praise and thanksgiving to God,
 who is worthy to receive glory and honour, power and dominion, forever and ever.
 Amen.
 
-=== Sermon XXII.
+== Sermon XXII.
 Baptism and the Lord`'s Supper Asserted.
 
 Preached at Grace-Church-Street, April 15, 1688.
@@ -9721,7 +9721,7 @@ that you may have the assistance of a greater power than
 your own to lead you out of sin into righteousness,
 that through Jesus Christ you may be acceptable to God.
 
-=== Sermon XXIII.
+== Sermon XXIII.
 Christ the Way, the Truth, and the Life.
 
 Preached at Grace-Church-Street, April 18, 1687.
@@ -10104,7 +10104,7 @@ and that you may feel the living virtues that flow from Christ to every member,
 is the labour and travel of the servants of God, for their own souls,
 and the souls of others that are in unity and fellowship with the Holy Spirit.
 
-=== Sermon XXIV.
+== Sermon XXIV.
 Captive Sinners Set Free by Jesus Christ.
 
 Preached at Devonshire-House, April 29, 1688.
@@ -10735,7 +10735,7 @@ Christ is a leader and governor, and the captain of our salvation, to lead the v
 and carry you on in the way of salvation; and as many as follow Christ,
 and are led by the spirit of God, they are the children of God.
 
-=== Sermon XXV.
+== Sermon XXV.
 The Sheep of Christ Hear His Voice.
 
 Preached at Devonshire-House, May 10, 1688.
@@ -11081,7 +11081,7 @@ that so living in all holy obedience and patience, and continuing in well-doing,
 you may have a constant supply of strength and power
 from God ministered unto you by his Holy Spirit.
 
-=== Sermon XXVI.
+== Sermon XXVI.
 No True Worship Without the Right Knowledge of God.
 
 Preached at Grace-Church-Street, May 24, 1688.
@@ -11649,7 +11649,7 @@ and if you be a willing people in the day of God`'s power,
 God will work all things in you and for you, and work in you "`both to will, and to do,
 of his good pleasure.`"
 
-=== Sermon XXVII.
+== Sermon XXVII.
 God`'s Wonderful Love to Mankind.
 
 Preached at St. Martin`'s-Le-Grand, November 9, 1690.
@@ -12050,7 +12050,7 @@ and hath made us kings and priests unto God and his Father:
 "`To him be glory and dominion forever and ever.
 Amen.`"
 
-=== Sermon XXVIII.
+== Sermon XXVIII.
 Salvation from Sin by Jesus Christ.
 
 Preached at Devonshire-House, August 9, 1691.
@@ -12354,7 +12354,7 @@ and God will carry on his work for the glory of his own name,
 and for the redemption of his people,
 that Christ may be preached for salvation to the ends of the earth.
 
-=== Sermon XXIX.
+== Sermon XXIX.
 The Acceptable Sacrifice.
 
 Preached at Grace-Church-Street, July 3, 1692.
@@ -12860,7 +12860,7 @@ and then he will present them to God, as holy, harmless, and undefiled,
 for these are heirs of that everlasting kingdom,
 which God hath prepared for them that love him.
 
-=== Sermon XXX.
+== Sermon XXX.
 Christ the Way to Eternal Life.
 
 Preached at Grace-Church-Street, May 6, 1688.
@@ -13122,7 +13122,7 @@ that you may be in the unity of the same spirit after the desire of all nations 
 he is come to you, that you may all say within yourselves,
 salvation this day is come to our houses, and into our hearts.
 
-=== Sermon XXXI.
+== Sermon XXXI.
 Christ All in All.
 
 Preached at Devonshire-House, June 10, 1688.
@@ -13569,7 +13569,7 @@ and you will be able to conquer those sins and temptations that have conquered y
 May the law of the spirit of life in Christ Jesus, break down the body of sin and death,
 and bring you into the glorious liberty which God hath prepared for his children.
 
-=== Sermon XXXII.
+== Sermon XXXII.
 Christians Should Often Think on the Name of the Lord.
 
 Preached at Devonshire-House, July 17, 1692.
@@ -14069,7 +14069,7 @@ that you may take up the cross of Christ and follow him as your great pattern,
 and in his name, and by the help and assistance of his Holy Spirit,
 you may know how to overcome all temptations.
 
-==== His Prayer After Sermon
+=== His Prayer After Sermon
 
 Most glorious Lord God! wonderful is thy great power over all,
 which thou hast revealed and made manifest in this thy blessed day.
