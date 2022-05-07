@@ -1,5 +1,6 @@
 == Sermon IV. The Standard of Truth.
 
+[.signed-section-context-open]
 Preached at Grace-Church-Street, May 29, 1692.
 
 There is a universal standard of truth,
@@ -45,7 +46,7 @@ that they were liable to in the fall, and might be restored, through the Mediato
 to a capacity of judging of their own actions, and of their own words, and ways,
 and inclinations.
 
-This is the standard which God hath pitched in everyone of our bosoms,
+This is the _standard_ which God hath pitched in everyone of our bosoms,
 for the trial of ourselves, either for our justification, or condemnation,
 of every word and action.
 

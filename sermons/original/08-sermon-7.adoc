@@ -1,8 +1,10 @@
 [short="Sermon VII. The Inward Preacher; or, The Office of Conscience."]
 == Sermon VII. The Inward Preacher; or, The Office of Conscience.
 
+[.signed-section-context-open]
 Preached at Grace-Church-Street, June 21, 1692.
 
+[.salutation]
 My Friends,
 
 Many have been sent among you,
@@ -370,9 +372,9 @@ for the end of that man is peace;`" when he can reflect upon his past life, and 
 I have walked before the Lord with a perfect heart,
 and done that which is good and well pleasing in his sight,
 and have not turned aside to the right hand or to the left,
-but the Standard of Truth hath been the guide of all my spiritual and temporal actions.
-If truth hath been thy guide here, then truth shall be thy portion hereafter.
-If truth guide thee in thy way, then thou shalt rejoice with the saints,
+but the Standard of Truth hath been the guide of all my _spiritual_ and _temporal_ actions.
+If _truth_ hath been thy _guide_ here, then _truth_ shall be thy portion hereafter.
+If _truth_ guide thee in thy way, then thou shalt rejoice with the saints,
 and receive an inheritance with the people of God,
 and enjoy that glory and felicity which God hath prepared for them that love him.
 
