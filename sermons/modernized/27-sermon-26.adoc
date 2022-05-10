@@ -1,8 +1,10 @@
 [short="Sermon XXVI. No True Worship Without the Right Knowledge of God."]
 == Sermon XXVI. No True Worship Without the Right Knowledge of God.
 
+[.signed-section-context-open]
 Preached at Grace-Church-Street, May 24, 1688.
 
+[.salutation]
 My Friends,
 
 There is no man who can truly worship God,
@@ -262,7 +264,7 @@ You cannot believe this, you will say, for you have had this ever since you was 
 and you know not the least good it has done you; all our learned men and ministers,
 go to what sort you will, they speak very slightly of it;
 this light within is nothing but natural conscience, a poor light,
-it is but an ignis fatuus, that will mislead us.
+it is but an _ignis fatuus,_ that will mislead us.
 But let me tell you, the reason why it does you no more good, is,
 because you have been loose and careless, and vain,
 and would not receive the reproofs of it; reckon up the time, and call to mind,
