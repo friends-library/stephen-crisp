@@ -1,8 +1,10 @@
 [short="Sermon XXII. Baptism and the Lord`'s Supper Asserted."]
 == Sermon XXII. Baptism and the Lord`'s Supper Asserted.
 
+[.signed-section-context-open]
 Preached at Grace-Church-Street, April 15, 1688.
 
+[.offset]
 If any man hath not the Spirit of Christ, he is none of his.
 
 If I should say no more,
@@ -21,7 +23,7 @@ so here is a decision of all the people in the world, whom they belong to.
 We, all of us, I hope, do expect there will be a decision at the day of judgment,
 and believe the things we read concerning it, that there will be a decision,
 and some will be placed on the right hand, and some on the left;
-some will have the sentence of, "`come ye blessed,`" and others the sentence of,
+some will have the sentence of, "`come ye blcessed,`" and others the sentence of,
 "`go ye cursed;`" but now there is a way of finding out
 the decision of the matter before we go out of the world,
 before the day of judgment, when there will be no remedy, what then is,
@@ -64,7 +66,7 @@ of the New Testament is about spiritual teachings and divine operations,
 and of faith being the operation of God;
 and the Old Testament hath abundance of expressions by way of prophecy,
 that in the New Testament days, if people would look for the law of God,
-they must look for it in their hearts; and if they would know God,
+they must look for it _in their hearts;_ and if they would know God,
 they must look to the Mediator, the Lord Jesus Christ:
 The New Testament also directs us that way;
 Christians should be the most spiritual people in the world, that is the guide, the rule.
@@ -304,10 +306,17 @@ and then trust in him, believe in him, and expect deliverance by him.
 The reason why people do not expect deliverance is,
 because these two things are shut out of their belief.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ They believe not that a sinful life will carry them to destruction.
 
+[.numbered]
 II. They think there is not any possibility in this
 world to live any other than a sinful life.
+
+====
 
 The devil hath brought men to this pass, that they live as easily in a sinful life,
 as a fish in the stream: We are in the way, say they; when we were baptized,
