@@ -1,5 +1,6 @@
 == Sermon XXVII. God`'s Wonderful Love to Mankind.
 
+[.signed-section-context-open]
 Preached at St. Martin`'s-Le-Grand, November 9, 1690.
 
 It is our great concern, while we are in this world, to promote the glory of God,
@@ -150,12 +151,17 @@ and may have the same effect; and that this may be the portion of everyone of yo
 is the end of our labour.
 And we have in our eye but two things.
 
-First, to discharge a good conscience in the sight of God,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ to discharge a good conscience in the sight of God,
 who has given us his word to preach,
 and to turn men from darkness to lights and from the power of Satan to God;
 that we might keep ourselves free from the blood of all men.
 
-Secondly, another end is, the desire that God has placed in our hearts,
+[.numbered]
+_Secondly,_ another end is, the desire that God has placed in our hearts,
 that all men everywhere might be saved; this is God`'s will;
 if any be damned it is their own will, and the devil`'s will; this is God`'s will,
 "`that none should perish,
@@ -168,6 +174,8 @@ the benefits of the gospel might come to be yours;
 that you might answer the purpose of God, in sending Christ to be the Saviour of mankind;
 you must turn from sin to God, and then you will find the blessing that comes by Jesus,
 which is to turn everyone from his evil ways.
+
+====
 
 You may read this in a book, and you may also plainly read it in your hearts:
 The Lord Jesus Christ has given you light to distinguish between good and evil;
