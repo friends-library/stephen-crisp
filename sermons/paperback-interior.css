@@ -1,0 +1,4 @@
+.multicol-toc-entry .multicol-toc-chapter {
+  flex-basis: 3.5em;
+  text-align: left;
+}
